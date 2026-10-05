@@ -1,0 +1,18 @@
+{
+  "verifiedAt": "2026-10-05T19:04:04Z",
+  "repository": "p2p-lanes/edge-agent-skill",
+  "region": "us-east-2",
+  "scheduleState": "ENABLED",
+  "scheduleExpression": "rate(15 minutes)",
+  "function": "edge-india-public-indexer",
+  "project": "edge-india-reference-refresh",
+  "group": "edge-india-reference-refresh",
+  "schedule": "edge-india-refresh-15m",
+  "indexerHash": "63a342cff8350d9c220ce6c9802691ea9a9bb26ce27d562192ee412d5d0b3490",
+  "writeVerificationBuild": "edge-india-reference-refresh:c72243ca-fcbb-417d-8e60-eb4e8c781cf8",
+  "fullRefreshBuild": "edge-india-reference-refresh:a1a70778-4539-4604-836e-9c82874d5ce1",
+  "scheduledProofBuild": "edge-india-reference-refresh:ad9087e5-1ce6-45e4-81e7-e7d24cd8f20e",
+  "scheduledProofInitiator": "edge-india-reference-refresh-SchedulerRole-bO7isNGUMLBT/15df44ba474932eaa05e8c086e6b68bd",
+  "firstAutomatedReferenceCommit": "c0397e3c445b87e274da8fd7ba34906a99c3bfe3",
+  "note": "Verification snapshot, not live status. Use scheduler get-schedule and execution logs to inspect current operation."
+}

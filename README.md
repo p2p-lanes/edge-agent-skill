@@ -27,11 +27,11 @@ bun run index
 
 ### Automatic refresh status
 
-**Automatic refresh is not yet enabled.** Deployment and authenticated checks are in progress; the committed documents are snapshots, not a freshness guarantee.
+**Automatic refresh is enabled on AWS, every 15 minutes on a best-effort schedule.** Activation was verified on October 5, 2026, including a genuine EventBridge-triggered refresh and an actual automated reference commit. This is not a freshness guarantee; inspect the current schedule state and execution logs. Verification details are in [`infra/deployment-status.json`](./infra/deployment-status.json).
 
 The AWS implementation uses EventBridge Scheduler → a dedicated CodeBuild publisher → Bun in Lambda → CodeBuild publication to this repository. All documentary requests come from Lambda, not GitHub-hosted runners. The existing AWS Connector for GitHub installation in `p2p-lanes` is accessed through project-specific CodeConnections authentication; there is no new GitHub App, PAT, or stored GitHub private key. Existing pipelines and account-level CodeBuild credentials are not changed.
 
-The intended schedule is every 15 minutes, best-effort. A refresh can fail, be delayed, or return unchanged content. **Last content change indexed** is not the latest fetch, publication date, approval date, or freshness guarantee. Check AWS execution logs for the latest attempt.
+The configured schedule is every 15 minutes, best-effort. A refresh can fail, be delayed, or return unchanged content. **Last content change indexed** is not the latest fetch, publication date, approval date, or freshness guarantee. Check AWS execution logs for the latest attempt.
 
 See [`infra/README.md`](./infra/README.md) for deployment, manual execution, logs, pause/resume, permissions, and costs. Scheduling is enabled only after a real temporary-branch write test, two successful full refresh builds, and a genuine scheduled-delivery proof.
 

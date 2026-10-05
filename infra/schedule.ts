@@ -13,7 +13,10 @@ if (state === "ENABLED" && currentState !== state) {
   const ids = JSON.parse(await aws(["codebuild", "list-builds-for-project", ...region, "--project-name", config.projectName, "--sort-order", "DESCENDING", "--output", "json"])).ids.slice(0, 20);
   if (!ids.length) throw new Error("Run authenticated verification builds before enabling");
   const builds = JSON.parse(await aws(["codebuild", "batch-get-builds", ...region, "--ids", ...ids, "--output", "json"])).builds;
-  const successful = builds.filter((build: { buildStatus: string; startTime: string }) => build.buildStatus === "SUCCEEDED" && new Date(build.startTime) >= new Date(stack.LastUpdatedTime ?? stack.CreationTime));
+  // Pause/resume updates the stack, not the runtime. Require fresh verification
+  // after a Lambda deployment without invalidating it on a simple pause.
+  const deployedAt = await aws(["lambda", "get-function-configuration", ...region, "--function-name", config.functionName, "--query", "LastModified", "--output", "text"]);
+  const successful = builds.filter((build: { buildStatus: string; startTime: string }) => build.buildStatus === "SUCCEEDED" && new Date(build.startTime) >= new Date(deployedAt));
   const mode = (build: { environment: { environmentVariables: { name: string; value: string }[] } }) => build.environment.environmentVariables.find(v => v.name === "REFRESH_MODE")?.value ?? "publish";
   const scheduledProof = successful.some((b: Parameters<typeof mode>[0]) => mode(b) === "publish" && b.environment.environmentVariables.some(v => v.name === "REFRESH_TRIGGER" && Boolean(v.value)));
   if (!successful.some((b: Parameters<typeof mode>[0]) => mode(b) === "verify-write") || successful.filter((b: Parameters<typeof mode>[0]) => mode(b) === "publish").length < 2 || !scheduledProof) {

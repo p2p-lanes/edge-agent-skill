@@ -48,12 +48,12 @@ describe("standalone India skill distribution", () => {
     expect(skill).toContain("do not scrape personal housing listings");
   });
 
-  test("excludes unrelated integration placeholders and unconfigured refresh promises", () => {
+  test("excludes unrelated integration placeholders and describes best-effort AWS refresh", () => {
     expect(skill).not.toContain("INDEX_NETWORK_PLACEHOLDER");
     expect(skill).not.toContain("GEO_BROWSER_PLACEHOLDER");
     expect(skill).not.toContain("## 3. Index Network");
     expect(skill).not.toContain("## 4. Geo Browser");
-    expect(skill).not.toContain("References refresh every 15 minutes");
+    expect(skill).toContain("References refresh every 15 minutes on a best-effort AWS schedule");
     expect(skill).toContain("Check the repository README and refresh execution logs for automation status");
   });
 });

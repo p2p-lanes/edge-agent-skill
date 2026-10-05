@@ -22,9 +22,15 @@ describe("India-only repository", () => {
     }
   });
 
-  test("documents the pending AWS deployment instead of claiming refresh is active", async () => {
+  test("documents verified AWS operation without claiming guaranteed freshness", async () => {
     const readme = await read("README.md");
-    expect(readme).toContain("Automatic refresh is not yet enabled");
+    expect(readme).toContain("Automatic refresh is enabled on AWS");
+    expect(readme).toContain("This is not a freshness guarantee");
+    const status = JSON.parse(await read("infra/deployment-status.json"));
+    expect(status.repository).toBe("p2p-lanes/edge-agent-skill");
+    expect(status.scheduleState).toBe("ENABLED");
+    expect(status.scheduledProofBuild).toContain("edge-india-reference-refresh:");
+    expect(status.note).toContain("not live status");
     expect(readme).toContain("https://raw.githubusercontent.com/p2p-lanes/edge-agent-skill/main/references/index.md");
     expect(readme).toContain("GitHub Actions runs offline validation only");
   });
