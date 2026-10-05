@@ -1,0 +1,25 @@
+{
+  "name": "edge-agent-skill",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "index": "bun run scripts/index.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/turndown": "^5.0.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "axios": "^1.14.0",
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.5.10",
+    "notion-client": "^7.10.0",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}

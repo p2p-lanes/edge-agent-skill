@@ -1,0 +1,28 @@
+# Dependencies and generated deployment artifacts
+node_modules/
+dist/
+out/
+coverage/
+*.lcov
+*.zip
+*.tgz
+bootstrap
+
+# Credentials and local environment
+.env*
+*.pem
+*.key
+.aws/
+
+# Infrastructure state and caches
+.terraform/
+*.tfstate*
+.cache/
+.eslintcache
+.references-stage-*
+*.tsbuildinfo
+
+# Logs and local editor files
+*.log
+.idea/
+.DS_Store
