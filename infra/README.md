@@ -86,11 +86,11 @@ Useful events: `publisher-write-verified`, `refresh-generated`, `refresh-no-chan
 
 CodeBuild concurrency and Lambda reserved concurrency are both one. Builds time out after 10 minutes; Lambda after 180 seconds. Scheduler retries are disabled to avoid hidden duplicate attempts; the next scheduled run tries again.
 
-CloudWatch alarms `edge-india-refresh-build-failures` and `edge-india-indexer-errors` show failures in AWS. They have **no email/paging action configured**; add a notification destination if needed. Logs and metrics remain useful even when source content does not change.
+CloudWatch alarms `edge-india-refresh-build-failures`, `edge-india-indexer-errors`, and `edge-india-refresh-scheduler-errors` show failures in AWS. Failed scheduler deliveries go to the encrypted queue `edge-india-refresh-delivery-dlq` with 14-day retention; messages are not automatically replayed. They have **no email/paging action configured**; add a notification destination if needed. Logs and metrics remain useful even when source content does not change.
 
 ## Costs and rollback
 
-CodeBuild is the main running cost: a 15-minute schedule starts about **96 builds/day**, and builds have a minimum billable duration. Lambda, Scheduler, S3 artifacts, logs, and alarms also have AWS charges. Review current regional pricing and your free-tier eligibility; this setup is not claimed to be free.
+CodeBuild is the main running cost: a 15-minute schedule starts about **96 builds/day**, and builds have a minimum billable duration. Lambda, Scheduler, S3 artifacts, logs, SQS, and alarms also have AWS charges. Review current regional pricing and your free-tier eligibility; this setup is not claimed to be free.
 
 Pause the schedule before rollback. Redeploy the previous code revision with its matching hash, run verification again, then enable. Do not force-push reference history or change shared connection installations, existing pipelines, or global source credentials.
 

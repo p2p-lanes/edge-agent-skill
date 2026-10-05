@@ -78,16 +78,25 @@ export const refreshTemplate = {
       },
       LogsConfig: { CloudWatchLogs: { Status: "ENABLED", GroupName: buildLog, StreamName: "refresh" } }, Tags: tags,
     } },
+    DeliveryQueue: { Type: "AWS::SQS::Queue", Properties: {
+      QueueName: "edge-india-refresh-delivery-dlq", SqsManagedSseEnabled: true, MessageRetentionPeriod: 1209600, Tags: tags,
+    } },
     ScheduleGroup: { Type: "AWS::Scheduler::ScheduleGroup", Properties: { Name: config.scheduleGroup, Tags: tags } },
     SchedulerRole: { Type: "AWS::IAM::Role", Properties: {
       AssumeRolePolicyDocument: trust("scheduler.amazonaws.com", arn("ScheduleGroup")), Tags: tags,
-      Policies: policy("OnlyStartRefresh", [statement(["codebuild:StartBuild"], arn("Publisher"))]),
+      Policies: policy("OnlyStartRefresh", [statement(["codebuild:StartBuild"], arn("Publisher")), statement(["sqs:SendMessage"], arn("DeliveryQueue"))]),
     } },
     Schedule: { Type: "AWS::Scheduler::Schedule", Properties: {
       Name: config.scheduleName, GroupName: ref("ScheduleGroup"), State: ref("ScheduleState"),
       ScheduleExpression: "rate(15 minutes)", ScheduleExpressionTimezone: "UTC", FlexibleTimeWindow: { Mode: "OFF" },
       Target: { Arn: sub("arn:${AWS::Partition}:scheduler:::aws-sdk:codebuild:startBuild"), RoleArn: arn("SchedulerRole"),
-        Input: JSON.stringify({ ProjectName: config.projectName }), RetryPolicy: { MaximumRetryAttempts: 0, MaximumEventAgeInSeconds: 900 } },
+        Input: JSON.stringify({ projectName: config.projectName }), DeadLetterConfig: { Arn: arn("DeliveryQueue") },
+        RetryPolicy: { MaximumRetryAttempts: 0, MaximumEventAgeInSeconds: 900 } },
+    } },
+    SchedulerFailureAlarm: { Type: "AWS::CloudWatch::Alarm", Properties: {
+      AlarmName: "edge-india-refresh-scheduler-errors", Namespace: "AWS/Scheduler", MetricName: "TargetErrorCount",
+      Dimensions: [{ Name: "ScheduleGroup", Value: ref("ScheduleGroup") }], Statistic: "Sum", Period: 900,
+      EvaluationPeriods: 1, Threshold: 1, ComparisonOperator: "GreaterThanOrEqualToThreshold", TreatMissingData: "notBreaching",
     } },
     BuildFailureAlarm: { Type: "AWS::CloudWatch::Alarm", Properties: {
       AlarmName: "edge-india-refresh-build-failures", AlarmDescription: "India refresh failed; valid references remain published. Inspect dedicated CodeBuild logs.",
@@ -103,5 +112,6 @@ export const refreshTemplate = {
   Outputs: {
     Function: { Value: ref("Indexer") }, Project: { Value: ref("Publisher") }, Schedule: { Value: ref("Schedule") },
     ScheduleGroup: { Value: ref("ScheduleGroup") }, ScheduleState: { Value: ref("ScheduleState") }, IndexerHash: { Value: ref("IndexerHash") },
+    DeliveryQueue: { Value: ref("DeliveryQueue") },
   },
 };

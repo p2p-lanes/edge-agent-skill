@@ -50,6 +50,10 @@ describe("dedicated AWS infrastructure", () => {
     expect(refreshTemplate.Parameters.ScheduleState.Default).toBe("DISABLED");
     expect(refreshTemplate.Resources.Schedule.Properties.ScheduleExpression).toBe("rate(15 minutes)");
     expect(refreshTemplate.Resources.Schedule.Properties.Target.RetryPolicy.MaximumRetryAttempts).toBe(0);
+    expect(JSON.parse(refreshTemplate.Resources.Schedule.Properties.Target.Input)).toEqual({ projectName: "edge-india-reference-refresh" });
+    expect(refreshTemplate.Resources.Schedule.Properties.Target.DeadLetterConfig).toBeDefined();
+    expect(refreshTemplate.Resources.DeliveryQueue.Properties.SqsManagedSseEnabled).toBe(true);
+    expect(refreshTemplate.Resources.SchedulerFailureAlarm.Properties.MetricName).toBe("TargetErrorCount");
     expect(refreshTemplate.Resources.Indexer.Properties.ReservedConcurrentExecutions).toBe(1);
     expect(refreshTemplate.Resources.Publisher.Properties.ConcurrentBuildLimit).toBe(1);
   });
