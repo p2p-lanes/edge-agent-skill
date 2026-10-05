@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-05T18:50:07.471Z
+Source updated: 2026-10-05T18:54:40.518Z
 
-Last content change indexed: 2026-10-05T18:52:19.418Z
+Last content change indexed: 2026-10-05T18:54:43.757Z
 
 ---
 
@@ -412,6 +412,16 @@ Think tropical beach village: easy, light, and made for warm days and warm water
 Our two hubs, Riva and The Circle, both have fast WiFi. We will also have Starlink as backup. Almost all lodging options in the area have WiFi as well.
 
 #### Currency
+
+It is highly encouraged to obtain **Indian rupees (INR) before leaving the airport** for your transfer and initial expenses.
+
+GOX/Mopa lists both ATMs and currency-exchange facilities. To withdraw cash, bring a debit card enabled for international ATM use and know your PIN; check your bank’s withdrawal limits and fees before traveling. At the ATM or card terminal, choose **INR/local currency** and decline conversion into your home currency to avoid the provider’s currency-conversion markup. If exchanging foreign cash, use an authorized exchange counter and keep the receipt.
+
+Many restaurants, hotels and larger businesses accept international cards, but ask before ordering.
+
+Keep cash in smaller denominations for street vendors, taxis and other small transactions rather than relying on card acceptance at places.
+
+UPI is another option, but international visitors need a compatible tourist-payment service with completed verification. More details on UPI soo\
 
 ---
 
