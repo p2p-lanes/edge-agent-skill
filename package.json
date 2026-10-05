@@ -5,7 +5,10 @@
   "scripts": {
     "index": "bun run scripts/index.ts",
     "test": "bun test",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "aws:deploy": "bun run infra/deploy.ts",
+    "aws:enable": "bun run infra/schedule.ts enabled",
+    "aws:disable": "bun run infra/schedule.ts disabled"
   },
   "devDependencies": {
     "@types/bun": "latest",

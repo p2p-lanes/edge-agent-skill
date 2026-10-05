@@ -1,23 +1,18 @@
 # Edge City India 2026 — Agent Skill
 
-Public documentary knowledge for the three-week popup village in Mandrem, North Goa, **October 11–November 1, 2026** (`Asia/Kolkata`).
-
-This is the canonical India-only repository. It has a new history, no Esmeralda archives, and no synchronization with the previous repository.
+Public documentary knowledge for Mandrem, North Goa, **October 11–November 1, 2026** (`Asia/Kolkata`). This is the canonical India-only repository, with a new history and no Esmeralda archives or cross-repository synchronization.
 
 ## For users
 
-Download [`SKILL.md`](./SKILL.md) and add it to your agent:
+Download [`SKILL.md`](./SKILL.md) and install it in your agent's skill directory, for example `~/.claude/skills/edge-india/SKILL.md`.
 
-- **Claude Code:** `~/.claude/skills/edge-india/SKILL.md`
-- **Other agents:** your host's skill/context directory.
+Install only the skill, not the reference Markdown. No API keys are needed; internet access is required. For each documentary query, the skill retrieves the remote index and relevant documents without persisting or reusing previous copies.
 
-Install only `SKILL.md`, not the reference Markdown. No API keys are needed; internet access is required. For each documentary query, the agent fetches the remote index and relevant documents without persisting or reusing previous copies.
+Reference index: https://raw.githubusercontent.com/p2p-lanes/edge-agent-skill/main/references/index.md
 
-Reference index: https://raw.githubusercontent.com/franvinas/edge-agent-skill/main/references/index.md
+Browse [`references/index.md`](./references/index.md). The skill includes primary-source fallbacks when references are unavailable.
 
-Browse the documents at [`references/index.md`](./references/index.md). If references are unavailable, the skill provides primary-source fallbacks.
-
-For live calendar, venues, RSVPs, and attendee directory queries, use AgentVillage's `edgeos` skill with verified India access. Otherwise consult https://portal.edgecity.live/portal/edge-india.
+Live calendar, venues, RSVPs, and attendee directory belong to AgentVillage's `edgeos` skill with verified India access. Otherwise consult https://portal.edgecity.live/portal/edge-india.
 
 ## For maintainers
 
@@ -28,36 +23,31 @@ bun run typecheck
 bun run index
 ```
 
-`bun run index` refreshes local references; it does not commit or publish them.
+`bun run index` refreshes local references only; it does not commit or publish them. GitHub Actions runs offline validation only; it never fetches sources or publishes references.
 
-### Refresh status and AWS migration
+### Automatic refresh status
 
-**Automatic refresh is not yet enabled.** The committed documents are snapshots, not a guarantee of current logistics. GitHub Actions runs offline validation only; it does not fetch sources or publish references.
+**Automatic refresh is not yet enabled.** Deployment and authenticated checks are in progress; the committed documents are snapshots, not a freshness guarantee.
 
-The complete indexer has been tested with Bun 1.4.2 in AWS Lambda (`us-east-2`, ARM64, custom runtime `provided.al2023`, 512 MB). It validated 24 documents, preserved unchanged files across repeated runs, and preserved valid references on a simulated source failure. The temporary test function and role were deleted; this is not a production deployment.
+The AWS implementation uses EventBridge Scheduler → a dedicated CodeBuild publisher → Bun in Lambda → CodeBuild publication to this repository. All documentary requests come from Lambda, not GitHub-hosted runners. The existing AWS Connector for GitHub installation in `p2p-lanes` is accessed through project-specific CodeConnections authentication; there is no new GitHub App, PAT, or stored GitHub private key. Existing pipelines and account-level CodeBuild credentials are not changed.
 
-The intended production setup is:
+The intended schedule is every 15 minutes, best-effort. A refresh can fail, be delayed, or return unchanged content. **Last content change indexed** is not the latest fetch, publication date, approval date, or freshness guarantee. Check AWS execution logs for the latest attempt.
 
-1. EventBridge Scheduler invokes Lambda every 15 minutes on a best-effort schedule.
-2. Lambda retrieves the current references from this repository and works in `/tmp`.
-3. All approved sources must fetch, parse, and validate before publication.
-4. A GitHub App publishes actual changes to this repository, without copying references to other repositories.
-5. App credentials are stored in AWS Secrets Manager, never in Git or the skill.
-
-The Lambda entrypoint, deployment infrastructure, and GitHub publisher still need to be implemented and activated. Create the GitHub App under `franvinas`, allow installation only on this account, select only this repository, and grant **Contents: read and write** with no other optional permissions. No webhook is needed.
-
-Cloudflare challenged RSS/sitemap requests from GitHub-hosted runners during testing. The same sources and the complete Bun indexer succeeded in Lambda. That result is not a guarantee against future source outages or access-policy changes.
+See [`infra/README.md`](./infra/README.md) for deployment, manual execution, logs, pause/resume, permissions, and costs. Scheduling is enabled only after a real temporary-branch write test and two successful full refresh builds.
 
 ### Project structure
 
-- `SKILL.md` — standalone, remotely retrieving documentary skill.
-- `references/` — generated India index, manifest, and Markdown.
+- `SKILL.md` — standalone documentary skill using remote references.
+- `references/` — generated India index, manifest, and documents.
 - `scripts/sources.ts` — event constants and approved public sources.
-- `scripts/content.ts` — extraction, XML validation, and ordered Notion traversal.
+- `scripts/content.ts` — extraction, XML validation, ordered Notion traversal.
 - `scripts/publish.ts` — deterministic publication and newsletter retention.
-- `scripts/index.ts` — public fetching and orchestration.
-- `tests/` — offline regression and reference-integrity tests.
-- `.github/workflows/test.yml` — validation only; no refresh schedule.
+- `scripts/reference-state.ts` — snapshot, source, hash, and payload validation.
+- `scripts/lambda-handler.ts` — credential-free Lambda generation.
+- `scripts/refresh-aws.ts` — CodeBuild invocation and reference-only Git publication.
+- `infra/` — versioned AWS configuration, runtime, CloudFormation, deployment, and scheduling controls.
+- `tests/` — offline regression, infrastructure, and reference-integrity tests.
+- `.github/workflows/test.yml` — offline validation with read-only permissions.
 
 ### Public sources
 
@@ -69,26 +59,28 @@ Cloudflare challenged RSS/sitemap requests from GitHub-hosted runners during tes
 | Public guides/updates | [Substack RSS](https://edgecityindia2026.substack.com/feed) + [sitemap](https://edgecityindia2026.substack.com/sitemap.xml) | `references/newsletter/*.md` |
 | Selected residency pages | Explicit URLs in `scripts/sources.ts` | `references/residencies/*.md` |
 
-Headings, links, tables, order, dates, and caveats are preserved. Notion extraction includes only reachable public documentary blocks, not permissions, user records, discussions, or internal metadata. Hidden website templates and form states are excluded without dropping collapsed FAQ answers.
+Headings, links, tables, order, dates, caveats, and conflicts are preserved. Notion extraction includes only reachable public documentary blocks, not permissions, user records, discussions, or internal metadata. Hidden website templates and form states are excluded without losing collapsed FAQ answers.
 
-Only approved sources are fetched. Housing spreadsheets, booking forms, Telegram groups, external residency sites, and attendee portals are linked resources, **not crawl targets**.
+Only approved sources are fetched. Housing spreadsheets, booking forms, Telegram, external residency sites, and attendee portals are linked resources, **not crawl targets**.
 
-### Publication and freshness safeguards
+### Publication safeguards
 
-- Every source must succeed before publication. Failures leave existing references unchanged.
-- Files are staged before swapping the reference directory; a failed final rename restores the previous directory.
-- The sitemap backfills newsletter articles outside the RSS window. Disappeared guides are retained and labeled, not deleted.
-- Content hashes preserve timestamps on unchanged runs.
-- **Last content change indexed** is not the latest fetch, publication date, approval date, or freshness guarantee.
-- Source conflicts are preserved, not silently reconciled. Cite conflicting evidence and confirm operational details with the team.
-- Historical mentions in legitimate India source text are preserved; they are not India logistics from another event.
+- Every source must fetch, parse, and validate before any publication. Failures leave valid references intact.
+- Snapshots have validated source URLs, paths, metadata, content hashes, and index coverage.
+- Newsletter articles absent from the RSS/sitemap are retained and labeled, not deleted.
+- Unchanged content preserves timestamps and creates no commit.
+- Files are staged before swapping local references, then published by a normal fast-forward Git push.
+- Only `references/` can be committed by the publisher. Concurrent changes to `main` cause an abort, never a rebase or force-push.
+- Lambda must match the checked-out indexer/dependency hash; code changes require redeployment rather than silently running an old parser.
+- Oversized requests/results fail without publication. The transport has a conservative 5 MiB payload limit.
+- Historical mentions in legitimate India sources are preserved, not used as another event's logistics.
 
 ### Distribution through AgentVillage
 
-The intended integration installs only `SKILL.md` at `skills/edge-india/SKILL.md`. Registration in AgentVillage's catalogs and installer is a separate change. References stay here and are retrieved remotely for each documentary query; no cross-repository reference synchronization is needed.
+The intended integration installs only `SKILL.md` at `skills/edge-india/SKILL.md`. Catalog/installer registration is a separate change. References stay here and are fetched remotely for each documentary query.
 
-Calendar, directory, venue, and RSVP integrations belong to `edgeos`. This repository has no Index Network or Geo Browser placeholders and no authenticated live-event integration.
+Calendar, directory, venue, and RSVP integrations belong to `edgeos`; this repo has no Index Network or Geo Browser placeholders or authenticated live-event integrations.
 
 ### Attribution
 
-The initial India-only snapshot derives from [aromeoes/edge-agent-skill](https://github.com/aromeoes/edge-agent-skill), including its public indexer and the India documentary skill attributed to Edge City. Source links and original article attribution remain in the generated references. No upstream license file was present in the imported snapshot; this import does not assign a new license.
+The initial India-only snapshot derives from [aromeoes/edge-agent-skill](https://github.com/aromeoes/edge-agent-skill), including its public indexer and India skill attributed to Edge City. Original source links and article attribution remain. No upstream license file was present in the imported snapshot; this import does not assign a new license.

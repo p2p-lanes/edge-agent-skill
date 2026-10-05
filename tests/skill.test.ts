@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test";
 
 const skill = await Bun.file(new URL("../SKILL.md", import.meta.url)).text();
-const referenceIndex = "https://raw.githubusercontent.com/franvinas/edge-agent-skill/main/references/index.md";
+const referenceIndex = "https://raw.githubusercontent.com/p2p-lanes/edge-agent-skill/main/references/index.md";
 
 describe("standalone India skill distribution", () => {
   test("provides remote discovery and correct relative document resolution", () => {
@@ -9,7 +9,8 @@ describe("standalone India skill distribution", () => {
     expect(skill).toContain("Resolve relative document links against that index URL");
     const housing = new URL("./newsletter/housing-for-edge-city-india.md", referenceIndex);
     expect(skill).toContain(`curl -fSsL "${housing.href}"`);
-    expect(skill).toContain("References are maintained in https://github.com/franvinas/edge-agent-skill");
+    expect(skill).toContain("References are maintained in https://github.com/p2p-lanes/edge-agent-skill");
+    expect(skill).not.toContain("github.com/franvinas/edge-agent-skill");
     expect(skill).not.toContain("github.com/aromeoes/edge-agent-skill");
     expect(skill).not.toContain("raw.githubusercontent.com/aromeoes/edge-agent-skill");
     expect(skill).toContain("read only the documents relevant to the question");

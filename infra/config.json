@@ -1,0 +1,11 @@
+{
+  "region": "us-east-2",
+  "repository": "p2p-lanes/edge-agent-skill",
+  "connectionArn": "arn:aws:codeconnections:us-east-2:793516851693:connection/2c31f2ab-2323-47d4-90c0-f179cc6c2075",
+  "stack": "edge-india-reference-refresh",
+  "artifactStack": "edge-india-reference-artifacts",
+  "functionName": "edge-india-public-indexer",
+  "projectName": "edge-india-reference-refresh",
+  "scheduleGroup": "edge-india-reference-refresh",
+  "scheduleName": "edge-india-refresh-15m"
+}

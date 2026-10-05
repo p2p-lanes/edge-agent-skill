@@ -1,7 +1,7 @@
 ---
 name: edge-india-2026
 description: Answer questions about Edge City India 2026 accommodation, travel, visas, tickets, families, residencies, and practical guides using public documentation.
-version: 3.2.0
+version: 3.2.1
 author: Edge City
 tags: [edge-city, edge-india, community, popup-village]
 ---
@@ -30,16 +30,16 @@ Published thematic weeks, not a daily schedule:
 
 ## 1. Find the relevant documentation
 
-References are maintained in https://github.com/franvinas/edge-agent-skill. For each documentary query, fetch the remote index, then read only the documents relevant to the question:
+References are maintained in https://github.com/p2p-lanes/edge-agent-skill. For each documentary query, fetch the remote index, then read only the documents relevant to the question:
 
 ```bash
-curl -fSsL "https://raw.githubusercontent.com/franvinas/edge-agent-skill/main/references/index.md"
+curl -fSsL "https://raw.githubusercontent.com/p2p-lanes/edge-agent-skill/main/references/index.md"
 ```
 
 Resolve relative document links against that index URL. For example, `./newsletter/housing-for-edge-city-india.md` becomes:
 
 ```bash
-curl -fSsL "https://raw.githubusercontent.com/franvinas/edge-agent-skill/main/references/newsletter/housing-for-edge-city-india.md"
+curl -fSsL "https://raw.githubusercontent.com/p2p-lanes/edge-agent-skill/main/references/newsletter/housing-for-edge-city-india.md"
 ```
 
 Retrieve documents from their remote URLs for each query. Do not install or persist reference Markdown, reuse copies from previous queries, or ask the user to download it.

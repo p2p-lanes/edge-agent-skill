@@ -25,7 +25,7 @@ describe("India-only repository", () => {
   test("documents the pending AWS deployment instead of claiming refresh is active", async () => {
     const readme = await read("README.md");
     expect(readme).toContain("Automatic refresh is not yet enabled");
-    expect(readme).toContain("https://raw.githubusercontent.com/franvinas/edge-agent-skill/main/references/index.md");
+    expect(readme).toContain("https://raw.githubusercontent.com/p2p-lanes/edge-agent-skill/main/references/index.md");
     expect(readme).toContain("GitHub Actions runs offline validation only");
   });
 });

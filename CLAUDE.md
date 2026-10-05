@@ -1,6 +1,6 @@
 # Edge City India Agent Skill
 
-Canonical repository: `https://github.com/franvinas/edge-agent-skill`.
+Canonical repository: `https://github.com/p2p-lanes/edge-agent-skill`.
 
 ## Scope
 
@@ -37,4 +37,4 @@ Default to Bun:
 
 Automatic refresh is not yet enabled. CI is offline validation only. Bun has passed a complete temporary Lambda test in `us-east-2`; no production Lambda or schedule is deployed by this repository yet.
 
-The intended target is EventBridge Scheduler → Lambda with Bun → this repository. Store GitHub App credentials in AWS Secrets Manager and scope access to this repository. Do not activate scheduling or claim publication is live until deployment and authenticated writing are verified. Never force-push over concurrent human changes.
+The target is EventBridge Scheduler → dedicated CodeBuild project → Lambda with Bun → CodeBuild publication to this repository. Reuse the existing AWS Connector via project-specific CodeConnections authentication; never replace account-level CodeBuild credentials or modify existing pipelines. Lambda must have no GitHub credentials. IAM roles must be dedicated and resource-scoped. Do not activate scheduling or claim publication is live until deployment and authenticated writing are verified. Never force-push over concurrent human changes.

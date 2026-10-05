@@ -1,0 +1,17 @@
+version: 0.2
+
+env:
+  git-credential-helper: yes
+
+phases:
+  install:
+    commands:
+      - npm install --global bun@1.4.2
+      - bun install --frozen-lockfile
+  pre_build:
+    commands:
+      - bun run test
+      - bun run typecheck
+  build:
+    commands:
+      - bun run scripts/refresh-aws.ts
