@@ -4,7 +4,7 @@ Source: https://www.edgecity.live/india26
 
 Source type: website
 
-Last content change indexed: 2026-10-05T13:50:57.008Z
+Last content change indexed: 2026-10-05T18:52:19.418Z
 
 ---
 
@@ -497,7 +497,7 @@ LEARN MORE
 ## Village Overview\
 & Map
 
-[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aae9e3a9e69e8e09682d992_photo_2026-09-19%2016.37.07.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aaea7328e67a384815a7f7e_photo_2026-09-19%2016.37.16.avif)](https://www.edgecity.live/india26#)
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6ac3eff26b13686d7c84c232_Goa%20Village%20Map%20Hor%201.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6ac3eff26b13686d7c84c232_Goa%20Village%20Map%20Hor%201.avif)](https://www.edgecity.live/india26#)
 
 ## Supporting Partners
 

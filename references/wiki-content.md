@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-05T18:42:04.154Z
+Source updated: 2026-10-05T18:50:07.471Z
 
-Last content change indexed: 2026-10-05T18:46:11.652Z
+Last content change indexed: 2026-10-05T18:52:19.418Z
 
 ---
 
@@ -410,6 +410,8 @@ Think tropical beach village: easy, light, and made for warm days and warm water
 #### 🛜 Wifi
 
 Our two hubs, Riva and The Circle, both have fast WiFi. We will also have Starlink as backup. Almost all lodging options in the area have WiFi as well.
+
+#### Currency
 
 ---
 
