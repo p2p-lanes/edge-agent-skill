@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-05T18:56:01.436Z
+Source updated: 2026-10-05T22:14:42.364Z
 
-Last content change indexed: 2026-10-05T18:56:38.436Z
+Last content change indexed: 2026-10-05T22:15:22.857Z
 
 ---
 
