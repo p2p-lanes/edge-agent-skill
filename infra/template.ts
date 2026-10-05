@@ -90,7 +90,7 @@ export const refreshTemplate = {
       Name: config.scheduleName, GroupName: ref("ScheduleGroup"), State: ref("ScheduleState"),
       ScheduleExpression: "rate(15 minutes)", ScheduleExpressionTimezone: "UTC", FlexibleTimeWindow: { Mode: "OFF" },
       Target: { Arn: sub("arn:${AWS::Partition}:scheduler:::aws-sdk:codebuild:startBuild"), RoleArn: arn("SchedulerRole"),
-        Input: JSON.stringify({ projectName: config.projectName }), DeadLetterConfig: { Arn: arn("DeliveryQueue") },
+        Input: JSON.stringify({ ProjectName: config.projectName }), DeadLetterConfig: { Arn: arn("DeliveryQueue") },
         RetryPolicy: { MaximumRetryAttempts: 0, MaximumEventAgeInSeconds: 900 } },
     } },
     SchedulerFailureAlarm: { Type: "AWS::CloudWatch::Alarm", Properties: {

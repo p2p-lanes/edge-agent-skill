@@ -32,8 +32,10 @@ export async function verify() {
   const nonce = crypto.randomUUID();
   const name = `edge-india-proof-${Date.now()}`;
   const date = new Date(Date.now() + 90000).toISOString().slice(0, 19);
-  const target = { ...schedule.Target, Input: JSON.stringify({ projectName: config.projectName,
-    environmentVariablesOverride: [{ name: "REFRESH_TRIGGER", value: nonce, type: "PLAINTEXT" }] }) };
+  // Scheduler validates universal inputs against SDK PascalCase fields,
+  // even though CodeBuild's native JSON API uses lower-camel-case names.
+  const target = { ...schedule.Target, Input: JSON.stringify({ ProjectName: config.projectName,
+    EnvironmentVariablesOverride: [{ Name: "REFRESH_TRIGGER", Value: nonce, Type: "PLAINTEXT" }] }) };
   await Bun.write("dist/proof-target.json", JSON.stringify(target));
   await aws(["scheduler", "create-schedule", ...region, "--group-name", config.scheduleGroup, "--name", name,
     "--schedule-expression", `at(${date})`, "--schedule-expression-timezone", "UTC", "--flexible-time-window", '{"Mode":"OFF"}',
