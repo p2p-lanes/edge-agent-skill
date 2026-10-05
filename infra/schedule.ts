@@ -15,8 +15,9 @@ if (state === "ENABLED" && currentState !== state) {
   const builds = JSON.parse(await aws(["codebuild", "batch-get-builds", ...region, "--ids", ...ids, "--output", "json"])).builds;
   const successful = builds.filter((build: { buildStatus: string; startTime: string }) => build.buildStatus === "SUCCEEDED" && new Date(build.startTime) >= new Date(stack.LastUpdatedTime ?? stack.CreationTime));
   const mode = (build: { environment: { environmentVariables: { name: string; value: string }[] } }) => build.environment.environmentVariables.find(v => v.name === "REFRESH_MODE")?.value ?? "publish";
-  if (!successful.some((b: Parameters<typeof mode>[0]) => mode(b) === "verify-write") || successful.filter((b: Parameters<typeof mode>[0]) => mode(b) === "publish").length < 2) {
-    throw new Error("Need a successful write verification and two full publication builds after deployment");
+  const scheduledProof = successful.some((b: Parameters<typeof mode>[0]) => mode(b) === "publish" && b.environment.environmentVariables.some(v => v.name === "REFRESH_TRIGGER" && Boolean(v.value)));
+  if (!successful.some((b: Parameters<typeof mode>[0]) => mode(b) === "verify-write") || successful.filter((b: Parameters<typeof mode>[0]) => mode(b) === "publish").length < 2 || !scheduledProof) {
+    throw new Error("Need write verification, two full refresh builds, and a scheduled delivery proof after deployment. Run bun run infra/verify.ts.");
   }
 }
 if (currentState === state) {

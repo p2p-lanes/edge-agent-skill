@@ -37,7 +37,13 @@ Indexer and dependency changes must be redeployed. The Lambda code-hash check fa
 
 ## Verify before enabling
 
-First prove GitHub write access without modifying `main`: this creates and deletes a temporary `verify/edge-india-publisher-*` branch with an empty commit.
+Run the complete verification sequence (write test, full refresh, and a real one-time scheduled refresh):
+
+```bash
+bun run infra/verify.ts
+```
+
+The one-time proof schedule auto-deletes and is also cleaned up on errors. The normal 15-minute schedule stays disabled throughout verification. For individual manual checks, first prove GitHub write access without modifying `main`: this creates and deletes a temporary `verify/edge-india-publisher-*` branch with an empty commit.
 
 ```bash
 aws codebuild start-build --region us-east-2 \
@@ -60,7 +66,7 @@ Enable after those checks:
 bun run aws:enable
 ```
 
-The command checks the deployed hash and requires a successful write verification plus two successful full refresh builds after deployment. A failed check leaves scheduling disabled. Rate-based scheduling is best-effort, not a freshness guarantee.
+The command checks the deployed hash and requires a successful write verification, two successful full refresh builds, and a scheduled-delivery proof after deployment. A failed check leaves scheduling disabled. Rate-based scheduling is best-effort, not a freshness guarantee.
 
 ## Operate
 

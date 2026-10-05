@@ -33,7 +33,7 @@ The AWS implementation uses EventBridge Scheduler → a dedicated CodeBuild publ
 
 The intended schedule is every 15 minutes, best-effort. A refresh can fail, be delayed, or return unchanged content. **Last content change indexed** is not the latest fetch, publication date, approval date, or freshness guarantee. Check AWS execution logs for the latest attempt.
 
-See [`infra/README.md`](./infra/README.md) for deployment, manual execution, logs, pause/resume, permissions, and costs. Scheduling is enabled only after a real temporary-branch write test and two successful full refresh builds.
+See [`infra/README.md`](./infra/README.md) for deployment, manual execution, logs, pause/resume, permissions, and costs. Scheduling is enabled only after a real temporary-branch write test, two successful full refresh builds, and a genuine scheduled-delivery proof.
 
 ### Project structure
 
