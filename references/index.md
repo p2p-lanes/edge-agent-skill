@@ -28,7 +28,7 @@ Timestamps below record the last indexed content change, not the latest successf
 | [Programming Preview for Edge City India](./newsletter/programming-preview-for-edge-city.md) | newsletter | 2026-09-14T14:07:58.000Z | 2026-09-30T21:31:09.778Z | Current source |
 | [Announcing the Ground Floor Residency](./newsletter/the-future-arrives-locally.md) | newsletter | 2026-08-11T14:49:45.000Z | 2026-09-30T21:15:43.517Z | Current source |
 | [The Road to Edge: Backroad Farm Caravan Experience](./newsletter/the-road-to-edge-backroad-farm-caravan.md) | newsletter | 2026-08-17T18:19:14.000Z | 2026-09-30T21:31:09.778Z | Current source |
-| [Tickets for Edge City India 2026](./newsletter/tickets-for-edge-city-india-2026.md) | newsletter | 2026-07-24T18:09:13.000Z | 2026-09-30T21:31:09.778Z | Current source |
+| [Tickets for Edge City India 2026](./newsletter/tickets-for-edge-city-india-2026.md) | newsletter | 2026-07-24T18:09:13.000Z | 2026-10-06T11:28:24.122Z | Current source |
 | [Volunteer at Edge City India 2026](./newsletter/volunteer-at-edge-city-india-2026.md) | newsletter | 2026-07-29T22:27:41.000Z | 2026-10-05T13:50:57.008Z | Current source |
 | [Welcome to Edge City India](./newsletter/welcome-to-edge-city-india.md) | newsletter | 2026-06-29T16:06:34.000Z | 2026-09-30T21:32:35.134Z | Current source |
 | [Announcing the Community Builders Residency   Blog   Edge City](./residencies/community-builders.md) | website | — | 2026-10-05T13:50:57.008Z | Current source |
