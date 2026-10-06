@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-06T02:58:14.729Z
+Source updated: 2026-10-06T02:58:49.915Z
 
-Last content change indexed: 2026-10-06T02:58:20.906Z
+Last content change indexed: 2026-10-06T03:13:22.613Z
 
 ---
 
@@ -187,7 +187,7 @@ TDLR;
 
 - ₹3,000 per week ($36) - 5 lunches, Monday - Friday.
 
-- ⚠️_Order deadline:_ Orders close **5 days** before each week starts (Oct 7, Oct 14, Oct 21), so the kitchens know how much to cook.
+- ⚠️_Order deadline:_ Week 1 orders close **Oct 10 at 2pm**. Weeks 2 and 3 close Oct 14 and Oct 21, so the kitchens know how much to cook.
 
 - We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants tplan properly.
 
@@ -455,7 +455,7 @@ Think tropical beach village: easy, light, and made for warm days and warm water
 
 Our two hubs, Riva and The Circle, both have fast WiFi. We will also have Starlink as backup. Almost all lodging options in the area have WiFi as well.
 
-**💻 The** **[Circle.Work](http://circle.work/)** **(co-working)**
+**💻 The Circle (co-working)**
 
 - Network: **EdgeCity**
 
