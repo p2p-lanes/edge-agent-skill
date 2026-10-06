@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-06T02:58:49.915Z
+Source updated: 2026-10-06T03:59:44.358Z
 
-Last content change indexed: 2026-10-06T03:13:22.613Z
+Last content change indexed: 2026-10-06T04:13:23.034Z
 
 ---
 
@@ -36,6 +36,8 @@ Tickets do not include accommodation; you need to organize your own housing. Her
 
 **🏨** **[Riva Beach Resort](https://www.rivaresorts.com/)** **— Recommended Community Hub**
 
+⚠️ **Riva is now sold out.** Check out the additional options below, or find a room share in the Housing & Visa Telegram group.
+
 Riva Beach Resort is the main gathering place for most attendees. It's a 4-star beachfront property set where the Arabian Sea meets the Mandrem rivulet, with sea-facing rooms and river-view cottages, multiple pools, a spa, and a restaurant. It sits directly on Mandrem Beach, a few steps to the sand.
 
 **What's included:** 24-hour café and WiFi, breakfast, gym, pool, direct beach access, and a boardroom/banquet hall for daily programming.
@@ -49,9 +51,9 @@ Riva Beach Resort is the main gathering place for most attendees. It's a 4-star 
 | 14 nights | ₹8,800 (~$92) | ₹1,23,200 (~$1,291) |
 | 21 nights (full stay) | ₹8,650 (~$91) | ₹1,81,650 (~$1,903) |
 
-→ **[Book directly here](https://forms.fillout.com/t/eGE4xizEwbus)**
-
 **🏘️ Additional Options**
+
+- Nanu Resort in Arambol, just north of Mandrem
 
 - [Airbnbs in Mandrem area](https://www.airbnb.com/s/Mandrem--Goa--India/homes?search_type=autocomplete_click&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-08-01&monthly_length=3&monthly_end_date=2026-11-01&price_filter_input_type=2&channel=EXPLORE&acp_id=a47a0b64-fee3-4ea1-ab58-651c75f8c1a7&date_picker_type=calendar&search_mode=regular_search&price_filter_num_nights=5&zoom_level=13&location_bb=QXsVo0KTiWVBej3hQpNo1g%3D%3D&source=structured_search_input_header)
 
@@ -189,7 +191,7 @@ TDLR;
 
 - ⚠️_Order deadline:_ Week 1 orders close **Oct 10 at 2pm**. Weeks 2 and 3 close Oct 14 and Oct 21, so the kitchens know how much to cook.
 
-- We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants tplan properly.
+- We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants plan properly.
 
 - If you have allergies or specific questions DM @jacquelinegomba
 
@@ -201,7 +203,7 @@ TDLR;
 
 You can also join Edge City India via a residency. Either way you need a ticket.
 
-**Step 2:** Book accommodation. Housing isn't included in your ticket (some residencies offer shared housing). You can book our negotiated rates for Riva Beach Resort [here](https://forms.fillout.com/t/eGE4xizEwbus). Find more recommended options, housemates and more in our [Community Housing Sheet](https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=721593883#gid=721593883).
+**Step 2:** Book accommodation. Housing isn't included in your ticket (some residencies offer shared housing). Riva Beach Resort is now sold out. Find more recommended options, housemates and more in our [Community Housing Sheet](https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=721593883#gid=721593883).
 
 **Step 3:** Book your travel and get excited!
 
@@ -265,13 +267,13 @@ Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover 
 
 Prices rise regularly between now and October 11. Grab your ticket early for the best rate. You'll pay whatever the current Sunday price is when you check out.
 
-- **Full 3-Week Pass** (Oct 11 – Nov 1): **$1,650** → $2,000 final release
+- **Full 3-Week Pass** (Oct 11 – Nov 1): **$1,950** → $2,000 final release
 
-- **1-Week Pass** **(Weeks 1 & 2)**: **$825** → $1,000 final release
+- **1-Week Pass** **(Weeks 1 & 2)**: **$975** → $1,000 final release
 
-- **1-Week Pass (Week** **3 — Tech Week + Final Demos): $1,320** → $1,600 final release
+- **1-Week Pass (Week** **3 — Tech Week + Final Demos): $1,560** → $1,600 final release
 
-- **Day Pass**: **$215** → $250 final release
+- **Day Pass**: **$245** → $250 final release
 
 - **Kids and teens (4–17)** → 40% off adult ticket
 
