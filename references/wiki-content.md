@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-06T00:28:07.305Z
+Source updated: 2026-10-06T02:58:14.729Z
 
-Last content change indexed: 2026-10-06T00:28:22.964Z
+Last content change indexed: 2026-10-06T02:58:20.906Z
 
 ---
 
@@ -20,9 +20,11 @@ Edge City India 2026 is a 3 week-long popup village (October 11 - November 1) ha
 
 - **[Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)** if you haven’t already. ✨ We are reviewing applications on a rolling basis.
 
-- ~**Housing:**~ ~Once you have your ticket, make sure you book accommodation. You can book our discounted rates for~ ~[Riva Beach Resort here](https://forms.fillout.com/t/eGE4xizEwbus)~~.~ \[SOLD OUT\]
+- **~~Housing:** Once you have your ticket, make sure you book accommodation. You can book our discounted rates for ~\[~Riva Beach Resort here~\](~~[https://forms.fillout.com/t/eGE4xizEwbus](https://forms.fillout.com/t/eGE4xizEwbus)~~)~. ~~\[SOLD OUT\]
 
   - **Housing & Visa Telegram group:** [Join here](https://t.me/+QIGTcyKbP0RjNDQx) to coordinate shared housing and meet other participants. Please read the 'Read This First' channel that is pinned at the top as soon as you enter.
+
+- **[Community Calendar](https://portal.edgecity.live/portal/edge-india/events)****:** browse all events of Edge City India 2026 here. Once you have a ticket, you can create and host your own sessions too.
 
 - **[Edge City India 2026 Blog](https://edgecityindia2026.substack.com/)****:** Search through this if you have further questions!
 
@@ -88,6 +90,46 @@ It's also home to the pools, the spa, and direct beach access.
 **🌅 Early Bird / Night Owl option — Riva Open Air**
 
 The Circle opens at 9am and closes at 1am. If you want to work outside those hours, head to [Riva Beach Resort](https://www.rivaresorts.com/) on Mandrem Beach, which is open 24/7 and has WiFi. Good for early risers, late-night builders, and anyone working across timezones.
+
+---
+
+#### 🗓 Calendar
+
+The calendar is the central place for all programming at Edge City India: talks, workshops, workouts, community gatherings, and more. Browse everything, RSVP, and host your own sessions. _**Prefer to watch? Here's a**_ _**[video tutorial](https://www.loom.com/share/67ea3a5aee624142abab41634a65c4b0)**__**.**_
+
+**→** **[Open the calendar](https://portal.edgecity.live/portal/edge-india/events)**
+
+Log in with the email tied to your ticket.
+
+**Browse and RSVP**
+
+- Switch between **List**, **Calendar**, and **Day-by-Venue** views in the top right.
+
+- Filter by **My RSVPs**, **My events**, **tags**, or **tracks**, or search by keyword.
+
+- Click any event for details. RSVP to add it to your personal calendar.
+
+**Host your own event**
+
+Anyone with a ticket can create and host. Click **\+ Create event** (top right), then:
+
+1. **Pick a venue:** an ECI26 shared venue, a custom location (give it a name and paste a Google Maps link), or **Meeting** for online events.
+
+1. **Add details:** title, date (within October 11 to November 1), start time, duration, description, capacity, tags (less is more), and a track if it's part of an official program.
+
+1. **Set visibility:** **Public** (all participants), **Private** (only people you invite by email), or **Unlisted** (accessible by link only).
+
+⚠️ Some venues need admin approval. Your event stays pending and hidden from others until it's approved.
+
+**Check venues**
+
+- Open **Venues** in the left sidebar to see each space's capacity, hours, equipment, photos, and Google Maps location.
+
+- 💡 To check if a space is free, switch to **Day-by-Venue** view and go to your date. You'll see everything scheduled across all rooms at a glance.
+
+**Manage your event**
+
+Once it's created, you can invite people by email, see who has RSVPed, edit any detail, or cancel.
 
 ---
 
@@ -269,7 +311,7 @@ We have a limited number of scholarships for those who need financial assistance
 
 To **[apply](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)**, select the scholarship option in your application and submit a 60-second video explaining why you’re applying and what your contribution might be.
 
-~**Volunteering:**~ ~We are looking for highly motivated people who are willing to volunteer in exchange for a ticket discount (up to 100% off). Apply as a volunteer~ ~[here](https://app.notion.com/p/39ed45cdfc5980d081bfe1e51fd145c9)~~.~
+**~~Volunteering:** We are looking for highly motivated people who are willing to volunteer in exchange for a ticket discount (up to 100% off). Apply as a volunteer ~\[~here~\](~~[Notion page](https://edgecity.notion.site/39ed45cdfc5980d081bfe1e51fd145c9)~~)~.~~
 
 [Apply to attend](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india) →
 
@@ -412,6 +454,12 @@ Think tropical beach village: easy, light, and made for warm days and warm water
 #### 🛜 Wifi
 
 Our two hubs, Riva and The Circle, both have fast WiFi. We will also have Starlink as backup. Almost all lodging options in the area have WiFi as well.
+
+**💻 The** **[Circle.Work](http://circle.work/)** **(co-working)**
+
+- Network: **EdgeCity**
+
+- Password: **Edgecitygoa@2026**
 
 #### 💵 Currency
 
