@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-06T00:13:09.719Z
+Source updated: 2026-10-06T00:28:07.305Z
 
-Last content change indexed: 2026-10-06T00:13:23.696Z
+Last content change indexed: 2026-10-06T00:28:22.964Z
 
 ---
 
@@ -54,6 +54,8 @@ Riva Beach Resort is the main gathering place for most attendees. It's a 4-star 
 - [Airbnbs in Mandrem area](https://www.airbnb.com/s/Mandrem--Goa--India/homes?search_type=autocomplete_click&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-08-01&monthly_length=3&monthly_end_date=2026-11-01&price_filter_input_type=2&channel=EXPLORE&acp_id=a47a0b64-fee3-4ea1-ab58-651c75f8c1a7&date_picker_type=calendar&search_mode=regular_search&price_filter_num_nights=5&zoom_level=13&location_bb=QXsVo0KTiWVBej3hQpNo1g%3D%3D&source=structured_search_input_header)
 
 - [Villas in Mandrem area](https://villagoa.in/villas/luxury-villas-morjim-mandrem/)
+
+- Additional [Villas in Mandrem area](https://www.natrajsadan.com/edge/)
 
 **Ways to reduce costs:**
 
@@ -417,11 +419,13 @@ It is highly encouraged to obtain **Indian rupees (INR)** **before** **leaving t
 
 GOX/Mopa lists both ATMs and currency-exchange facilities. To withdraw cash, bring a debit card enabled for international ATM use and know your PIN; check your bank’s withdrawal limits and fees before traveling. At the ATM or card terminal, choose **INR/local currency** and decline conversion into your home currency to avoid the provider’s currency-conversion markup. If exchanging foreign cash, use an authorized exchange counter and keep the receipt.
 
-LOCAL ATM LOCATIONS 24/7:
+CONFIRMED ATM LOCATIONS 24/7:
 
 **HDFC Bank ATM:** No 191/A1, Ground Floor, Madhalamaj, Mandrem, Goa 403527
 
 **Bank of India (BOI) ATM:** 119, Querim–Arambol–Agarwada Rd, Madhalamaj, Mandrem, Goa 403527
+
+**HDFC Bank ATM (Arambol):** House No 274/1, Gr Flr, Vashanti Niwas, Madhalawada, Pernem, Arambol, Goa 403524
 
 Many restaurants, hotels and larger businesses accept international cards, but ask before ordering.
 
