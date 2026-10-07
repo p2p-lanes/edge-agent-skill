@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-06T03:59:44.358Z
+Source updated: 2026-10-07T08:57:18.164Z
 
-Last content change indexed: 2026-10-06T04:13:23.034Z
+Last content change indexed: 2026-10-07T08:58:22.404Z
 
 ---
 
@@ -53,7 +53,7 @@ Riva Beach Resort is the main gathering place for most attendees. It's a 4-star 
 
 **🏘️ Additional Options**
 
-- Nanu Resort in Arambol, just north of Mandrem
+- [Nanu Beach Resort](https://maps.app.goo.gl/m7WKin2V3GmxcCk28)
 
 - [Airbnbs in Mandrem area](https://www.airbnb.com/s/Mandrem--Goa--India/homes?search_type=autocomplete_click&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-08-01&monthly_length=3&monthly_end_date=2026-11-01&price_filter_input_type=2&channel=EXPLORE&acp_id=a47a0b64-fee3-4ea1-ab58-651c75f8c1a7&date_picker_type=calendar&search_mode=regular_search&price_filter_num_nights=5&zoom_level=13&location_bb=QXsVo0KTiWVBej3hQpNo1g%3D%3D&source=structured_search_input_header)
 
@@ -189,7 +189,7 @@ TDLR;
 
 - ₹3,000 per week ($36) - 5 lunches, Monday - Friday.
 
-- ⚠️_Order deadline:_ Week 1 orders close **Oct 10 at 2pm**. Weeks 2 and 3 close Oct 14 and Oct 21, so the kitchens know how much to cook.
+- ⚠️_Order deadline:_ Week 1 orders close **Oct 10 at 10am IST**. Week 2 closes **Oct 16 at 10am IST** and week 3 closes Oct 21, so the kitchens know how much to cook.
 
 - We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants plan properly.
 
