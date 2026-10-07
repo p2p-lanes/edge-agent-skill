@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-07T11:42:58.467Z
+Source updated: 2026-10-07T11:51:21.045Z
 
-Last content change indexed: 2026-10-07T11:43:24.125Z
+Last content change indexed: 2026-10-07T11:58:23.813Z
 
 ---
 
@@ -14,7 +14,7 @@ Welcome! We're so excited to have you with us ☀️
 
 This wiki has all the important information regarding Edge City India 2026. If you have further questions, please reach out to [info@edgecity.live](mailto:info@edgecity.live).
 
-Edge City India 2026 is a 3 week-long popup village (October 11 - November 1) happening in Mandrem, Goa. The event is designed for individuals working at the cutting edge of science, technology, and culture.
+Edge City India 2026 is a 3 week-long popup village (October 11 - November 1) in Mandrem, Goa. The event is for individuals working at the cutting edge of science, technology, and culture.
 
 #### ❤️ Most Important Info & Links
 
@@ -32,11 +32,11 @@ Edge City India 2026 is a 3 week-long popup village (October 11 - November 1) ha
 
 #### 🛏 Accommodation
 
-Tickets do not include accommodation; you need to organize your own housing. Here are the main options:
+Tickets do not include accommodation; you need to organize your housing. Some options:
 
 **🏨** **[Riva Beach Resort](https://www.rivaresorts.com/)** **— Recommended Community Hub**
 
-⚠️ **Riva is now sold out.** Check out the additional options below, or find a room share in the Housing & Visa Telegram group.
+⚠️ **Riva is now sold out.**
 
 **🏘️ Additional Options**
 
@@ -78,7 +78,7 @@ It's also home to the pools, the spa, and direct beach access.
 
 **🌅 Early Bird / Night Owl option — Riva Open Air**
 
-The Circle opens at 9am and closes at 1am. If you want to work outside those hours, head to [Riva Beach Resort](https://www.rivaresorts.com/) on Mandrem Beach, which is open 24/7 and has WiFi. Good for early risers, late-night builders, and anyone working across timezones.
+The Circle opens at 9am and closes at 1am. To work outside those hours, head to [Riva Beach Resort](https://www.rivaresorts.com/) on Mandrem Beach, which is open 24/7 and has WiFi. Good for early risers, late-night builders, and anyone working across timezones.
 
 ---
 
@@ -183,18 +183,6 @@ TLDR;
 - If you have allergies or specific questions DM @jacquelinegomba
 
 ---
-
-#### 💌 How to Join
-
-**Step 1:** [Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india). Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between 1 or 3 week-long passes. Day and weekend passes are now available.
-
-You can also join Edge City India via a residency. Either way you need a ticket.
-
-**Step 2:** Book accommodation. Housing isn't included in your ticket (some residencies offer shared housing). Riva Beach Resort is now sold out. Find more recommended options, housemates and more in our [Community Housing Sheet](https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=721593883#gid=721593883).
-
-**Step 3:** Book your travel and get excited!
-
-_Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later._
 
 ---
 
@@ -408,7 +396,7 @@ _This is general guidance, not medical advice. Please confirm vaccines and medic
 
 #### 🎽 What to Pack
 
-October in Mandrem is warm, humid, and mostly sunny as the monsoon tails off. Expect daytime highs around 30 to 33°C (86 to 91°F) and warm nights around 22 to 24°C (72 to 75°F).
+October in Mandrem is warm, humid, and mostly sunny as the monsoon tails off. Expect daytime highs ~30-33°C (86 to 91°F) and warm nights around 22 to 24°C (72 to 75°F).
 
 The Arabian Sea stays warm at about 28°C (83°F), so it's proper beach weather. Early October can still catch the occasional late-monsoon shower, but things dry out steadily across the three weeks.
 
@@ -442,7 +430,7 @@ Think tropical beach village: easy, light, and made for warm days and warm water
 
 #### 🛜 Wifi
 
-Our two hubs, Riva and The Circle, both have fast WiFi. We will also have Starlink as backup. Almost all lodging options in the area have WiFi as well.
+Our two hubs, Riva and The Circle, both have fast WiFi, with backup Starlink.
 
 **💻 The Circle (co-working)**
 
@@ -485,3 +473,15 @@ UPI is another option, but international visitors need a compatible tourist-paym
 Edge City India 2026 is organized by [Edge City](https://www.edgecity.live/), a "society incubator" dedicated to advancing human flourishing. We host monthlong popup villages where people at the frontiers of technology, science, and culture live and work together. Each village is an environment for running real experiments on new ideas and collaborations.
 
 Email [info@edgecity.live](mailto:info@edgecity.live) if you have any further questions.
+
+#### 💌 How to Join
+
+**Step 1:** [Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india). Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between 1 or 3 week-long passes. Day and weekend passes are now available.
+
+You can also join Edge City India via a residency. Either way you need a ticket.
+
+**Step 2:** Book accommodation. Housing isn't included in your ticket (some residencies offer shared housing). Riva Beach Resort is now sold out. Find more recommended options, housemates and more in our [Community Housing Sheet](https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=721593883#gid=721593883).
+
+**Step 3:** Book your travel and get excited!
+
+_Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later._

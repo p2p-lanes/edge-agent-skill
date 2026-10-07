@@ -35,4 +35,4 @@ Timestamps below record the last indexed content change, not the latest successf
 | [Creative Residency Edge City: Modern Renaissance   Blog   Edge City](./residencies/creator-residency.md) | website | — | 2026-10-05T13:50:57.008Z | Current source |
 | [Edge City India 2026](./website-content.md) | website | — | 2026-10-05T18:52:19.418Z | Current source |
 | [About   Edge City](./website/about.md) | website | — | 2026-09-30T21:28:06.827Z | Current source |
-| [Edge City India 2026 Wiki](./wiki-content.md) | wiki | — | 2026-10-07T11:43:24.125Z | Current source |
+| [Edge City India 2026 Wiki](./wiki-content.md) | wiki | — | 2026-10-07T11:58:23.813Z | Current source |
