@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-07T11:51:21.045Z
+Source updated: 2026-10-07T14:22:45.133Z
 
-Last content change indexed: 2026-10-07T11:58:23.813Z
+Last content change indexed: 2026-10-07T14:28:21.243Z
 
 ---
 
@@ -297,6 +297,19 @@ To **[apply](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)
 #### 🚲 Transport & Getting Around
 
 We've negotiated discounted taxi rates between Riva and The Circle, and we'll share a list of trusted taxi contacts soon. Shuttle service between the two locations is also being arranged for peak times. Renting a scooter or bike is common and an easy way to get around if you're comfortable with it.
+
+October 11th - GOX / Mopa Airport to Riva Beach Resort
+
+**9:30 AM Shuttle service starts at airport - first pickup**\
+10:15 AM Shuttle drops at RIVA\
+**11:30 AM Shuttle service - second pickup**\
+12:15 PM Shuttle drops at RIVA\
+**2:30 PM Shuttle service - third pickup**\
+3:15 PM Shuttle drops at RIVA\
+**4:45 PM Shuttle service - fourth & final pickup**\
+5:15 PM Shuttle final drops at RIVA
+
+October 11th - RIVA to The Forresta; Opening Ceremony
 
 Note: roads at night have limited lighting, so a taxi or a flashlight is the safer call after dark.
 
