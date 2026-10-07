@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-07T08:57:18.164Z
+Source updated: 2026-10-07T10:22:47.550Z
 
-Last content change indexed: 2026-10-07T08:58:22.404Z
+Last content change indexed: 2026-10-07T10:28:20.668Z
 
 ---
 
@@ -181,7 +181,7 @@ We've partnered with local restaurants and businesses to offer ECI26 participant
 
 **Lunch Meal Plans**
 
-TDLR;
+TLDR;
 
 - We’ve partnered with [Om Kafe](https://share.google/uhNPlKfRJ9AzUd34Z) and [Hari Cafe](https://www.haricafe.com/) to provide fresh and healthy lunches Monday - Friday delivered to The Circle.Work from 1:00-2:00 PM!
 
