@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-07T10:22:47.550Z
+Source updated: 2026-10-07T11:42:58.467Z
 
-Last content change indexed: 2026-10-07T10:28:20.668Z
+Last content change indexed: 2026-10-07T11:43:24.125Z
 
 ---
 
@@ -37,19 +37,6 @@ Tickets do not include accommodation; you need to organize your own housing. Her
 **🏨** **[Riva Beach Resort](https://www.rivaresorts.com/)** **— Recommended Community Hub**
 
 ⚠️ **Riva is now sold out.** Check out the additional options below, or find a room share in the Housing & Visa Telegram group.
-
-Riva Beach Resort is the main gathering place for most attendees. It's a 4-star beachfront property set where the Arabian Sea meets the Mandrem rivulet, with sea-facing rooms and river-view cottages, multiple pools, a spa, and a restaurant. It sits directly on Mandrem Beach, a few steps to the sand.
-
-**What's included:** 24-hour café and WiFi, breakfast, gym, pool, direct beach access, and a boardroom/banquet hall for daily programming.
-
-**Pricing is tiered — the longer you stay, the lower your per-night rate** (per room, double occupancy; Superior, Deluxe, and Super Deluxe all priced the same; GST included):
-
-| Stay length | Per night | Total |
-| --- | --- | --- |
-| 1 night | ₹9,600 (~$101) | ₹9,600 (~$101) |
-| 7 nights | ₹9,100 (~$95) | ₹63,700 (~$667) |
-| 14 nights | ₹8,800 (~$92) | ₹1,23,200 (~$1,291) |
-| 21 nights (full stay) | ₹8,650 (~$91) | ₹1,81,650 (~$1,903) |
 
 **🏘️ Additional Options**
 
@@ -465,7 +452,7 @@ Our two hubs, Riva and The Circle, both have fast WiFi. We will also have Starli
 
 #### 💵 Currency
 
-It is highly encouraged to obtain **Indian rupees (INR)** **before** **leaving the airport** for your transfer and initial expenses.
+For transfer/initial expenses, best obtain **Indian rupees (INR)** **before** **leaving the airport**
 
 GOX/Mopa lists both ATMs and currency-exchange facilities. To withdraw cash, bring a debit card enabled for international ATM use and know your PIN; check your bank’s withdrawal limits and fees before traveling. At the ATM or card terminal, choose **INR/local currency** and decline conversion into your home currency to avoid the provider’s currency-conversion markup. If exchanging foreign cash, use an authorized exchange counter and keep the receipt.
 
