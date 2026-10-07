@@ -4,7 +4,7 @@ Source: https://www.edgecity.live/india26
 
 Source type: website
 
-Last content change indexed: 2026-10-05T18:52:19.418Z
+Last content change indexed: 2026-10-07T22:28:22.445Z
 
 ---
 
@@ -12,11 +12,11 @@ Last content change indexed: 2026-10-05T18:52:19.418Z
 
 [
 
-Accommodation
+Calendar
 
 ![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-](https://forms.fillout.com/t/eGE4xizEwbus)[
+](https://portal.edgecity.live/portal/edge-india/events)[
 
 BLOG
 
