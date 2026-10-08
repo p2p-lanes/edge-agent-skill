@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T04:55:52.152Z
+Source updated: 2026-10-08T05:09:52.841Z
 
-Last content change indexed: 2026-10-08T04:58:18.894Z
+Last content change indexed: 2026-10-08T05:13:20.871Z
 
 ---
 
@@ -162,7 +162,7 @@ We offer a variety of health & well-being activities including run club, yoga, s
 
 ---
 
-#### Shuttle Service for October 11th Arrivals & Opening Ceremony
+#### Weekly Lunch Plan
 
 We've partnered with local restaurants and businesses to offer ECI26 participants exclusive discounts. A full list of locations will be added soon!
 
@@ -182,6 +182,8 @@ TLDR;
 
 - If you have allergies or specific questions DM @jacquelinegomba
 
+#### Shuttle Service for October 11th Arrivals & Opening Ceremony
+
 We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. This shuttle is complimentary and we will have volunteers, designated with a purple lanyard posted at the GOX airport to help guide you.
 
 **October 11th - GOX / Mopa Airport to Riva Beach Resort**
@@ -197,11 +199,18 @@ We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. Thi
 
 **October 11th - RIVA to The Forresta Kinaro; Opening Ceremony**
 
-We will offer a complimentary shuttle to the Opening Ceremony at The Forresta Kinaro.
+We will offer a complimentary shuttle to the Opening Ceremony at The Forresta Kinaro. Volunteers designated with a purple lanyard will be posted at RIVA Beach Resort parking area and The Forresta Kinaro entrance to assist in getting on the shuttle.
 
-Shuttle service will be starting at 5:00pm at RIVA Beach Resort and dropping off at The Forresta Kinaro every 15 mins.
+Shuttle service will be starting at 5:00pm at RIVA Beach Resort and dropping off at The Forresta Kinaro on a loop every 15 mins. They will be on standby from 7:00pm - 7:30pm.
 
-Volunteers designated with a purple lanyard will be posted at RIVA Beach Resort parking area and The Forresta Kinaro entrance to assist in getting on the shuttle.
+Shuttle service will resume at 7:30pm - 10:30pm for returning to RIVA Beach resort from The Forresta Kinaro.
+
+#### Shuttle Service during Edge City India
+
+We will offer a shuttle service from 9am - 5pm from October 12th through October 31st daily. Shuttle stops include NANU Resort > RIVA Beach Resort > Lush Garden (Mandrem) > The Circle Coworking > Lush Garden (Mandrem) > RIVA Beach Resort > NANU Resort.
+
+Times will be approximate to traffic.\
+Please plan accordingly so you do not miss your next session!
 
 ---
 
