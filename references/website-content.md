@@ -4,7 +4,7 @@ Source: https://www.edgecity.live/india26
 
 Source type: website
 
-Last content change indexed: 2026-10-08T19:28:18.845Z
+Last content change indexed: 2026-10-08T19:43:20.805Z
 
 ---
 
@@ -43,6 +43,8 @@ Prototype a Brighter Future
 ![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a418783052e7760e01365cf_name.header.avif)
 
 [Apply to attend](https://portal.edgecity.live/portal/edge-india)
+
+[](https://www.linkedin.com/company/edge-city-live/)[](https://twitter.com/joinedgecity)[](https://www.instagram.com/joinedgecity/)
 
 POP-UP VILLAGE
 
