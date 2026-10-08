@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T18:09:44.646Z
+Source updated: 2026-10-08T18:23:17.233Z
 
-Last content change indexed: 2026-10-08T18:13:20.838Z
+Last content change indexed: 2026-10-08T18:28:19.577Z
 
 ---
 
@@ -216,7 +216,7 @@ All dinners are on the [calendar](https://portal.edgecity.live/portal/edge-india
 
 #### Shuttle Service for October 11th Arrivals & Opening Ceremony
 
-We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. This shuttle is complimentary and we will have volunteers, designated with a purple lanyard posted at the GOX airport to help guide you (exact location of shuttle details coming- please keep eyes on telegram transportation, TG chat linked here:
+We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. This shuttle is complimentary and we will have volunteers, designated with a purple lanyard posted at the GOX airport to help guide you (exact location of shuttle details coming- please keep eyes on telegram transportation chat for updates, schedule below:
 
 **October 11th - GOX / Mopa Airport to Riva Beach Resort**
 
@@ -245,8 +245,17 @@ Shuttle service will resume at 7:30pm - 10:30pm for returning to RIVA Beach reso
 
 We will offer a shuttle service from weekdays 9am - 5pm from October 12th through October 31st daily. Shuttle stops include NANU Resort > RIVA Beach Resort > Lush Garden (Mandrem) > The Circle Coworking > Lush Garden (Mandrem) > RIVA Beach Resort > NANU Resort.
 
-Times will be approximate to traffic.\
+Shuttle times will be approximate to traffic.\
 Please plan accordingly so you do not miss your next session!
+
+Additionally, aligned prices for taxis are below - you can find these outside of Riva and around town.
+
+Please note the prices below are negotiated prices for ongoing relationships with taxi association around town, prices may vary according to your own negotiations, however should not go over these below. Negotiate with respect, please!
+
+A few of our taxi driver friends include:\
+\
+Prasad Gadekar - Whatsapp #+91 - 98503 - 91950\
+Umesh Naik - Whatsapp # +91-83297-44359
 
 ---
 
@@ -387,6 +396,12 @@ Our two hubs, Riva and The Circle, both have fast WiFi, with backup Starlink.
 - Network: **EdgeCity**
 
 - Password: **Edgecitygoa@2026**
+
+- **💻 Riva (co-working)**
+
+  - Network: **Edge City**
+
+  - Password: **Edgecitygoa@2026**
 
 #### 💵 Currency
 
