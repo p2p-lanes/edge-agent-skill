@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-07T14:22:45.133Z
+Source updated: 2026-10-08T04:55:52.152Z
 
-Last content change indexed: 2026-10-07T14:28:21.243Z
+Last content change indexed: 2026-10-08T04:58:18.894Z
 
 ---
 
@@ -162,7 +162,7 @@ We offer a variety of health & well-being activities including run club, yoga, s
 
 ---
 
-#### 🥗 Food
+#### Shuttle Service for October 11th Arrivals & Opening Ceremony
 
 We've partnered with local restaurants and businesses to offer ECI26 participants exclusive discounts. A full list of locations will be added soon!
 
@@ -182,123 +182,9 @@ TLDR;
 
 - If you have allergies or specific questions DM @jacquelinegomba
 
----
+We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. This shuttle is complimentary and we will have volunteers, designated with a purple lanyard posted at the GOX airport to help guide you.
 
----
-
-#### 🐣 Kids & Families
-
-Edge City India is proudly multigenerational - kids, teens, and elders make the village richer for everyone. We believe the best communities are ones where people of all ages collaborate, learn from one another, and create meaningful things together. We created Edge Tomorrow so creative families can get the most out of Edge City India.
-
-**→** **[Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)** **(mention your children in your application)**
-
----
-
-#### 🎨 Edge Tomorrow- Residency for Kids
-
-Edge Tomorrow is the network of places, activities, and people that will serve as the social and creative anchor for families with children.
-
-These spaces are designed, curated, and facilitated with kids in mind. The purpose is to spark self-directed creativity and cross-age creative endeavors, relating to themes and projects in the larger village.
-
-Edge Tomorrow includes our worldbuilding facilitators, and an intergenerational creative hub with rich, carefully selected materials, where kids collaborate with adults to co-create and demo multi-day creative projects each week.
-
-At Edge Tomorrow Healdsburg, participants worked together to create a giant cardboard metropolis, start 3 micro businesses, produce birthday parties for Edge participants, create two complex sculptures using quantum math modeling tools, and even build an escape room.
-
-The container is deeply influenced by our environment and we are excited to see what Edge Tomorrow Goa brings!
-
-**→** [More information Here](https://edgecityindia2026.substack.com/p/bring-your-family-to-edge-city-india)
-
----
-
-#### 🏖️ Outdoor Adventure Planning
-
-_**We will have some group weekend adventures planned - coming soon!**_
-
-Mandrem sits on North Goa's coast, and the surrounding area is full of things to explore — beaches, waterfalls, and the Western Ghats are all within reach. Late October/November is post-monsoon, so everything is green and the waterfalls are full.
-
-**Ideas for weekends and downtime:**
-
-- Kayak through the dense mangrove tunnels of North Goa's Chapora River, Nerul River, or the Sal Backwaters near Nuvem
-
-- Take the [Chorao Ferry](https://oneboard.app/places/chorao-ferry) to Chorao Island and paddle the Dr. Salim Ali Bird Sanctuary
-
-- Beach-hop the quiet northern stretch - walk from Mandrem to **Ashwem** and **Morjim** (a sea-turtle nesting beach) to the south, or **Arambol** to the north for its Sweet Water Lake, banyan tree, and evening drum circles
-
-- Head to the far north tip for **Keri (Querim) Beach** and the clifftop **Tiracol Fort**, reached by a short river ferry
-
-- Chase a waterfall — **Arvalem (Harvalem) Falls** near Bicholim is an easy half-day trip, while **Dudhsagar Falls**, Goa's tallest, makes a bigger full-day outing into the Western Ghats
-
-- Explore the Ghats inland: a spice plantation tour or a jeep safari in the **Mhadei / Bhagwan Mahavir wildlife sanctuaries**
-
-_A full outdoor adventure guide will be published on the_ _[Edge City India blog](https://edgecityindia2026.substack.com/)_ _closer to the event._
-
----
-
-#### 🎟 Tickets
-
-Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover the real costs of this three-week village.
-
-**Current Ticket Prices available when your application has been approved-** **[apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)****!**
-
-Prices rise regularly between now and October 11. Grab your ticket early for the best rate. You'll pay whatever the current Sunday price is when you check out.
-
-- **Full 3-Week Pass** (Oct 11 – Nov 1): **$1,950** → $2,000 final release
-
-- **1-Week Pass** **(Weeks 1 & 2)**: **$975** → $1,000 final release
-
-- **1-Week Pass (Week** **3 — Tech Week + Final Demos): $1,560** → $1,600 final release
-
-- **Day Pass**: **$245** → $250 final release
-
-- **Kids and teens (4–17)** → 40% off adult ticket
-
-- **Kids under 3** → free
-
-_**Indian citizens receive 50% off any of the above. Please indicate you’re a local in your application. ID required at check-in.**_
-
-_**Spouses and partners receive 10% off any of the above.**_
-
-_All ticket sales are final. We do not offer refunds. If your plans change, you can transfer your ticket to someone else. Email_ _[info@edgecity.live](mailto:info@edgecity.live)_ _with the new attendee's name and email._
-
----
-
-**Patron tickets** start at $7,500 and include all standard ticket benefits plus an additional donation to our 501(c)(3). Patron tickets help keep prices accessible for builders, researchers, and young people, and help fund scholarships.
-
-**What your ticket includes:**
-
-- Access to all sessions, seminars, events, hackathons, workshops, and beyond
-
-- Access to our collaborative calendar to host your own events
-
-- Coworking space in Mandrem, with meeting rooms and fast WiFi
-
-- Group wellness activities, including daily workouts
-
-- Community events, including village dinners
-
-- Access to the Edge City India chat groups
-
-- Discounts at partner venues in Mandrem and North Goa
-
-_Accommodation and daily meals are not included in the ticket price. Ticket holders get access to discounted hotel rates on a first-come-first-served basis. Community dinners run throughout the three weeks; Goa's food scene handles the rest._
-
-**Scholarships:**
-
-We have a limited number of scholarships for those who need financial assistance to participate. Scholarship recipients are expected to contribute roughly 10 hours per week of volunteer effort during the event. We prioritize scholars who apply for the full experience (October 11 – November 1).
-
-To **[apply](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)**, select the scholarship option in your application and submit a 60-second video explaining why you’re applying and what your contribution might be.
-
-**~~Volunteering:** We are looking for highly motivated people who are willing to volunteer in exchange for a ticket discount (up to 100% off). Apply as a volunteer ~\[~here~\](~~[Notion page](https://edgecity.notion.site/39ed45cdfc5980d081bfe1e51fd145c9)~~)~.~~
-
-[Apply to attend](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india) →
-
----
-
-#### 🚲 Transport & Getting Around
-
-We've negotiated discounted taxi rates between Riva and The Circle, and we'll share a list of trusted taxi contacts soon. Shuttle service between the two locations is also being arranged for peak times. Renting a scooter or bike is common and an easy way to get around if you're comfortable with it.
-
-October 11th - GOX / Mopa Airport to Riva Beach Resort
+**October 11th - GOX / Mopa Airport to Riva Beach Resort**
 
 **9:30 AM Shuttle service starts at airport - first pickup**\
 10:15 AM Shuttle drops at RIVA\
@@ -309,9 +195,13 @@ October 11th - GOX / Mopa Airport to Riva Beach Resort
 **4:45 PM Shuttle service - fourth & final pickup**\
 5:15 PM Shuttle final drops at RIVA
 
-October 11th - RIVA to The Forresta; Opening Ceremony
+**October 11th - RIVA to The Forresta Kinaro; Opening Ceremony**
 
-Note: roads at night have limited lighting, so a taxi or a flashlight is the safer call after dark.
+We will offer a complimentary shuttle to the Opening Ceremony at The Forresta Kinaro.
+
+Shuttle service will be starting at 5:00pm at RIVA Beach Resort and dropping off at The Forresta Kinaro every 15 mins.
+
+Volunteers designated with a purple lanyard will be posted at RIVA Beach Resort parking area and The Forresta Kinaro entrance to assist in getting on the shuttle.
 
 ---
 
