@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T10:35:45.946Z
+Source updated: 2026-10-08T10:56:06.419Z
 
-Last content change indexed: 2026-10-08T10:43:19.407Z
+Last content change indexed: 2026-10-08T10:58:24.358Z
 
 ---
 
@@ -40,7 +40,7 @@ Tickets do not include accommodation; you need to organize your housing. Some op
 
 **🏘️ Additional Options**
 
-- [Nanu Beach Resort](https://maps.app.goo.gl/m7WKin2V3GmxcCk28)
+- [Nanu Beach Resort](https://maps.app.goo.gl/m7WKin2V3GmxcCk28) (shuttle stop)
 
 - [North Goa Villas in Mandrem area](https://www.natrajsadan.com/edge/) **w/ Edge City Discount!**
 
