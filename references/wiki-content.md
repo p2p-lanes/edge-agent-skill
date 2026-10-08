@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T05:09:52.841Z
+Source updated: 2026-10-08T05:28:01.134Z
 
-Last content change indexed: 2026-10-08T05:13:20.871Z
+Last content change indexed: 2026-10-08T05:28:19.980Z
 
 ---
 
@@ -205,7 +205,7 @@ Shuttle service will be starting at 5:00pm at RIVA Beach Resort and dropping off
 
 Shuttle service will resume at 7:30pm - 10:30pm for returning to RIVA Beach resort from The Forresta Kinaro.
 
-#### Shuttle Service during Edge City India
+#### Shuttle Service & Taxi Information during Edge City India
 
 We will offer a shuttle service from 9am - 5pm from October 12th through October 31st daily. Shuttle stops include NANU Resort > RIVA Beach Resort > Lush Garden (Mandrem) > The Circle Coworking > Lush Garden (Mandrem) > RIVA Beach Resort > NANU Resort.
 
