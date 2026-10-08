@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T10:56:06.419Z
+Source updated: 2026-10-08T17:10:29.174Z
 
-Last content change indexed: 2026-10-08T10:58:24.358Z
+Last content change indexed: 2026-10-08T17:13:23.253Z
 
 ---
 
@@ -258,7 +258,7 @@ Mandrem is a coastal village in North Goa (Pernem taluka), on the Arabian Sea ju
 
   - While you are waiting for the shuttle, we have a 10% discount at Artjuna Cafe at GOX Airport. Please mention “Edge City” for a discount!
 
-- GOI (Dabolim / Goa International Airport, South Goa): ~1.5–2 hrs drive. Fine as a backup if the fares or timing work better. **For arrival instructions with photos; click** **[HERE.](https://edgecity.notion.site/p/038d45cdfc5983c7a1fe013fdc77135b?pvs=25)**
+- GOI (Dabolim / Goa International Airport, South Goa): ~1.5–2 hrs drive. Fine as a backup if the fares or timing work better. **For arrival instructions with photos; click** **[HERE](https://docs.google.com/document/d/1L3TubgdDo_xHatkOPLzh5AM1LMGY57ZFaTTmtoScwbo/edit?usp=sharing)****.**
 
 #### 🛂 Visas & Entry to India
 
