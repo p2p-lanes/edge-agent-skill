@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T07:42:02.615Z
+Source updated: 2026-10-08T10:13:11.809Z
 
-Last content change indexed: 2026-10-08T07:43:22.606Z
+Last content change indexed: 2026-10-08T10:13:20.783Z
 
 ---
 
@@ -20,7 +20,7 @@ Edge City India 2026 is a 3 week-long popup village (October 11 - November 1) in
 
 - **[Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)** if you haven’t already. ✨ We are reviewing applications on a rolling basis.
 
-- **~~Housing:** Once you have your ticket, make sure you book accommodation. You can book our discounted rates for ~\[~Riva Beach Resort here~\](~~[https://forms.fillout.com/t/eGE4xizEwbus](https://forms.fillout.com/t/eGE4xizEwbus)~~)~. ~~\[SOLD OUT\]
+- **Housing:** Once you have your ticket, make sure you book accommodation. You can book our discounted rates for ~\[Riva Beach Resort here\]~ \[SOLD OUT\]
 
   - **Housing & Visa Telegram group:** [Join here](https://t.me/+QIGTcyKbP0RjNDQx) to coordinate shared housing and meet other participants. Please read the 'Read This First' channel that is pinned at the top as soon as you enter.
 
@@ -104,7 +104,7 @@ Anyone with a ticket can create and host. Click **\+ Create event** (top right),
 
 1. **Pick a venue:** an ECI26 shared venue, a custom location (give it a name and paste a Google Maps link), or **Meeting** for online events.
 
-1. **Add details:** title, date (within October 11 to November 1), start time, duration, description, capacity, tags (less is more), and a track if it's part of an official program.
+1. **Add details:** title, date , start time, duration, description, capacity, photo, and a track if it's part of an official program.
 
 1. **Set visibility:** **Public** (all participants), **Private** (only people you invite by email), or **Unlisted** (accessible by link only).
 
@@ -148,6 +148,18 @@ Every attendee needs to check in to collect their wristband. Please bring your t
 
 **Arriving outside these hours?** You can join sessions before checking in - keep your ticket QR code handy.
 
+The most important communication channel is our Telegram group for all participants.
+
+_→ All ticket holders receive the invitation link via email to join._
+
+---
+
+#### 💬 Community Chat Group on Telegram
+
+The most important communication channel is our Telegram group for all participants.
+
+_→ All ticket holders receive the invitation link via email to join._
+
 ---
 
 #### 🤸🏽 Wellbeing
@@ -162,7 +174,9 @@ We offer a variety of health & well-being activities including run club, yoga, s
 
 ---
 
-#### Weekly Lunch Plan
+#### 🥗 Food
+
+We've partnered with local restaurants and businesses to offer ECI26 participants exclusive discounts. Browse all offers on our [Notion page](https://edgecity.notion.site/3f3d45cdfc598175b9c4fcde149a1b9c) page.
 
 We've partnered with local restaurants and businesses to offer ECI26 participants exclusive discounts. A full list of locations will be added soon!
 
@@ -170,17 +184,37 @@ We've partnered with local restaurants and businesses to offer ECI26 participant
 
 TLDR;
 
-- We’ve partnered with [Om Kafe](https://share.google/uhNPlKfRJ9AzUd34Z) and [Hari Cafe](https://www.haricafe.com/) to provide fresh and healthy lunches Monday - Friday delivered to The Circle.Work from 1:00-2:00 PM!
+We’ve partnered with [Om Kafe](https://share.google/uhNPlKfRJ9AzUd34Z) and [Hari Cafe](https://www.haricafe.com/) to provide fresh and healthy lunches Monday - Friday delivered to The Circle.Work from 1:00-2:00 PM!
 
-- Participants must pay for a pre-purchased meal ticket [here](https://portal.edgecity.live/checkout/edge-india/lunch-tickets).
+Participants must pay for a pre-purchased meal ticket [here](https://portal.edgecity.live/checkout/edge-india/lunch-tickets).
 
-- ₹3,000 per week ($36) - 5 lunches, Monday - Friday.
+₹3,000 per week ($36) - 5 lunches, Monday - Friday.
 
-- ⚠️_Order deadline:_ Week 1 orders close **Oct 10 at 10am IST**. Week 2 closes **Oct 16 at 10am IST** and week 3 closes Oct 21, so the kitchens know how much to cook.
+⚠️_Order deadline:_ Week 1 orders close **Oct 10 at 10am IST**. Week 2 closes **Oct 16 at 10am IST** and week 3 closes Oct 21, so the kitchens know how much to cook.
 
-- We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants plan properly.
+We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants plan properly.
 
-- If you have allergies or specific questions DM @jacquelinegomba
+If you have allergies or specific questions DM @jacquelinegomba
+
+**Dinners**
+
+Dinners are pay-as-you-go and rotate across partner venues so you can explore the best of Mandrem’s food scene.
+
+Join the Edge City India community at 7:00pm, Monday to Thursday, to unwind and connect over shared meals! Just show up, order off the menu and show your wristband for the discount.
+
+- **Mondays** at [Oo! Olivia](https://maps.google.com/?q=Oo+Olivia+Mandrem+Goa) for 15% off
+
+- **Tuesdays** at [Ashwe 351](https://maps.google.com/?q=Ashwe+351+Palma+Beach+Resort+Ashvem+Goa) (inside Palma Beach Resort) for 10% off
+
+- **Wednesdays** at [Brisa by the Beach](https://maps.app.goo.gl/Takho1eVV5XxEwNR7) for 20% off
+
+- **Thursdays** at [Prana Cafe](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) for 10% off
+
+- **Sunday Oct 18** at [Jadugari](https://maps.google.com/?q=Jadugari+Morjim+Goa), Morjim, for 20% off
+
+- **Sunday Oct 25** at [Morjim Culture](https://maps.app.goo.gl/cEsyyW2Rp81frcuN7)
+
+All dinners are on the [calendar](https://portal.edgecity.live/portal/edge-india/events).
 
 #### Shuttle Service for October 11th Arrivals & Opening Ceremony
 
@@ -220,9 +254,9 @@ Mandrem is a coastal village in North Goa (Pernem taluka), on the Arabian Sea ju
 
 **Nearest airports:**
 
-- GOX (Manohar International / Mopa Airport, North Goa): ~25 km, 30–40 min drive. This is the closest and the one to aim for.
+- GOX (Manohar International / Mopa Airport, North Goa): ~25 km, 30–40 min drive. This is the closest and the one to aim for. **For arrival instructions with photos; click** **[HERE.](https://docs.google.com/document/d/161mjFNCXP9dl3JlFdkzvI2Sje7I0Nh9A/edit?usp=sharing&ouid=102473816871369346891&rtpof=true&sd=true)**
 
-- GOI (Dabolim / Goa International Airport, South Goa): ~1.5–2 hrs drive. Fine as a backup if the fares or timing work better.
+- GOI (Dabolim / Goa International Airport, South Goa): ~1.5–2 hrs drive. Fine as a backup if the fares or timing work better. **For arrival instructions with photos; click HERE.**
 
 #### 🛂 Visas & Entry to India
 
@@ -397,3 +431,23 @@ You can also join Edge City India via a residency. Either way you need a ticket.
 **Step 3:** Book your travel and get excited!
 
 _Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later._
+
+## Discounts & Partners
+
+Show your colourful Edge City wristband at any of these partners to get your discount. It applies any day, not just on community dinner nights.
+
+| Partner | Discount | Cuisine | Notes |
+| --- | --- | --- | --- |
+| 🌊 [**Brisa by the Beach**](https://maps.app.goo.gl/Takho1eVV5XxEwNR7) | **20% off** | Continental, beachfront | Wednesday dinner spot. Open 12pm to 12am |
+| 🍛 [**Jadugari**](https://maps.google.com/?q=Jadugari+Morjim+Goa) | **20% off** | Gourmet Indian | Sunday dinner spot, Oct 18. Morjim, about 10 min by car |
+| 🌿 [**Lush Garden**](https://maps.app.goo.gl/1ecyxZYxawCtnkiZ8) | **20% off** | Healthy, mostly vegetarian |  |
+| 🍴 [**Zorba Vibes**](https://maps.google.com/?q=Zorba+Vibes+Ashvem+Beach+Road+Mandrem+Goa) | **20% off** | North Indian, Chinese, seafood, bar food | Ashvem Beach Road, short walk from The Circle. Open 9am to 10pm |
+| ☕ [**Hari Cafe**](https://maps.google.com/?q=Hari+Cafe+Ashvem+Beach+Mandrem+Goa) | **15% off** | Coffee, healthy, fully vegetarian | Weekdays only, doesn't stack with the lunch plan. Two min walk from The Circle |
+| 🥘 [**Om Cafe**](https://maps.google.com/?q=Om+Cafe+Mandrem+Goa) | **15% off** | Healthy Indian | Lunch partner weeks 1 and 3 |
+| 🍝 [**Oo! Olivia**](https://maps.google.com/?q=Oo+Olivia+Mandrem+Goa) | **15% off** | International | Monday dinner spot |
+| 🔥 **Cuebebar on the Beach** | **15% off** | BBQ | In The Circle building |
+| 🥭 [**Wango Wango**](https://maps.app.goo.gl/JYSAsAN4FuEHFs9W9) | **15% off** | South and North Indian | Arambol side of Mandrem, closer to Riva |
+| 🎸 [**Ashwe 351**](https://maps.google.com/?q=Ashwe+351+Palma+Beach+Resort+Ashvem+Goa) | **10% off** | Multi cuisine, international | Tuesday dinner spot. Inside Palma Beach Resort |
+| 🌱 [**Prana Cafe**](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) | **10% off** |  | Thursday dinner spot |
+
+More places are joining as we confirm them, so check back!
