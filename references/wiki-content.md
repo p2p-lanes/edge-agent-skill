@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T10:13:11.809Z
+Source updated: 2026-10-08T10:24:18.523Z
 
-Last content change indexed: 2026-10-08T10:13:20.783Z
+Last content change indexed: 2026-10-08T10:28:19.692Z
 
 ---
 
@@ -42,11 +42,11 @@ Tickets do not include accommodation; you need to organize your housing. Some op
 
 - [Nanu Beach Resort](https://maps.app.goo.gl/m7WKin2V3GmxcCk28)
 
+- [North Goa Villas in Mandrem area](https://www.natrajsadan.com/edge/) **w/ Edge City Discount!**
+
 - [Airbnbs in Mandrem area](https://www.airbnb.com/s/Mandrem--Goa--India/homes?search_type=autocomplete_click&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-08-01&monthly_length=3&monthly_end_date=2026-11-01&price_filter_input_type=2&channel=EXPLORE&acp_id=a47a0b64-fee3-4ea1-ab58-651c75f8c1a7&date_picker_type=calendar&search_mode=regular_search&price_filter_num_nights=5&zoom_level=13&location_bb=QXsVo0KTiWVBej3hQpNo1g%3D%3D&source=structured_search_input_header)
 
 - [Villas in Mandrem area](https://villagoa.in/villas/luxury-villas-morjim-mandrem/)
-
-- Additional [Villas in Mandrem area](https://www.natrajsadan.com/edge/)
 
 **Ways to reduce costs:**
 
@@ -178,8 +178,6 @@ We offer a variety of health & well-being activities including run club, yoga, s
 
 We've partnered with local restaurants and businesses to offer ECI26 participants exclusive discounts. Browse all offers on our [Notion page](https://edgecity.notion.site/3f3d45cdfc598175b9c4fcde149a1b9c) page.
 
-We've partnered with local restaurants and businesses to offer ECI26 participants exclusive discounts. A full list of locations will be added soon!
-
 **Lunch Meal Plans**
 
 TLDR;
@@ -210,9 +208,9 @@ Join the Edge City India community at 7:00pm, Monday to Thursday, to unwind and 
 
 - **Thursdays** at [Prana Cafe](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) for 10% off
 
-- **Sunday Oct 18** at [Jadugari](https://maps.google.com/?q=Jadugari+Morjim+Goa), Morjim, for 20% off
+- **Sunday Oct 18** at [Jadugari](https://maps.google.com/?q=Jadugari+Morjim+Goa) for 20% off
 
-- **Sunday Oct 25** at [Morjim Culture](https://maps.app.goo.gl/cEsyyW2Rp81frcuN7)
+- **Sunday Oct 25** at [Morjim Culture](https://maps.app.goo.gl/cEsyyW2Rp81frcuN7) for 10% off
 
 All dinners are on the [calendar](https://portal.edgecity.live/portal/edge-india/events).
 
@@ -230,6 +228,8 @@ We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. Thi
 3:15 PM Shuttle drops at RIVA\
 **4:45 PM Shuttle service - fourth & final pickup**\
 5:15 PM Shuttle final drops at RIVA
+
+**While you are waiting for the shuttle, we have a 10% discount at Artjuna Cafe at GOX Airport. Please mention “Edge City” for a discount!**
 
 **October 11th - RIVA to The Forresta Kinaro; Opening Ceremony**
 
@@ -256,7 +256,9 @@ Mandrem is a coastal village in North Goa (Pernem taluka), on the Arabian Sea ju
 
 - GOX (Manohar International / Mopa Airport, North Goa): ~25 km, 30–40 min drive. This is the closest and the one to aim for. **For arrival instructions with photos; click** **[HERE.](https://docs.google.com/document/d/161mjFNCXP9dl3JlFdkzvI2Sje7I0Nh9A/edit?usp=sharing&ouid=102473816871369346891&rtpof=true&sd=true)**
 
-- GOI (Dabolim / Goa International Airport, South Goa): ~1.5–2 hrs drive. Fine as a backup if the fares or timing work better. **For arrival instructions with photos; click HERE.**
+  - While you are waiting for the shuttle, we have a 10% discount at Artjuna Cafe at GOX Airport. Please mention “Edge City” for a discount!
+
+- GOI (Dabolim / Goa International Airport, South Goa): ~1.5–2 hrs drive. Fine as a backup if the fares or timing work better. **For arrival instructions with photos; click** **[HERE.](https://edgecity.notion.site/p/038d45cdfc5983c7a1fe013fdc77135b?pvs=25)**
 
 #### 🛂 Visas & Entry to India
 
@@ -432,9 +434,9 @@ You can also join Edge City India via a residency. Either way you need a ticket.
 
 _Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later._
 
-## Discounts & Partners
+## Restaurant Discounts & Partners
 
-Show your colourful Edge City wristband at any of these partners to get your discount. It applies any day, not just on community dinner nights.
+Show your colorful Edge City wristband at any of these partners to get your discount. It applies any day, not just on community dinner nights.
 
 | Partner | Discount | Cuisine | Notes |
 | --- | --- | --- | --- |
@@ -445,9 +447,11 @@ Show your colourful Edge City wristband at any of these partners to get your dis
 | ☕ [**Hari Cafe**](https://maps.google.com/?q=Hari+Cafe+Ashvem+Beach+Mandrem+Goa) | **15% off** | Coffee, healthy, fully vegetarian | Weekdays only, doesn't stack with the lunch plan. Two min walk from The Circle |
 | 🥘 [**Om Cafe**](https://maps.google.com/?q=Om+Cafe+Mandrem+Goa) | **15% off** | Healthy Indian | Lunch partner weeks 1 and 3 |
 | 🍝 [**Oo! Olivia**](https://maps.google.com/?q=Oo+Olivia+Mandrem+Goa) | **15% off** | International | Monday dinner spot |
-| 🔥 **Cuebebar on the Beach** | **15% off** | BBQ | In The Circle building |
+| 🔥 Cuebebar on the Beach | **15% off** | BBQ | In The Circle building |
 | 🥭 [**Wango Wango**](https://maps.app.goo.gl/JYSAsAN4FuEHFs9W9) | **15% off** | South and North Indian | Arambol side of Mandrem, closer to Riva |
 | 🎸 [**Ashwe 351**](https://maps.google.com/?q=Ashwe+351+Palma+Beach+Resort+Ashvem+Goa) | **10% off** | Multi cuisine, international | Tuesday dinner spot. Inside Palma Beach Resort |
-| 🌱 [**Prana Cafe**](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) | **10% off** |  | Thursday dinner spot |
+| 🍵 [**For Kicks Cafe**](https://maps.app.goo.gl/aoibZi1gm43scPG5A) | **10% off drinks** | Specialty coffee, matcha and bakes | Right below Odd Table |
+| 🌱 [**Prana Cafe**](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) | **10% off** | Locally sourced, international | Thursday dinner spot |
+| 🌅 [**Morjim Culture**](https://maps.app.goo.gl/cEsyyW2Rp81frcuN7) | **10% off** |  | Sunday dinner spot, Oct 25. Morjim |
 
 More places are joining as we confirm them, so check back!
