@@ -141,6 +141,15 @@
       "indexed": "2026-09-30T21:31:09.778Z"
     },
     {
+      "path": "newsletter/the-community-calendar.md",
+      "title": "The Community Calendar",
+      "url": "https://edgecityindia2026.substack.com/p/the-community-calendar",
+      "kind": "newsletter",
+      "published": "2026-10-08T09:55:33.000Z",
+      "hash": "073625942dbdcacbad4753302f48c899a513a8728b0aed775da5c18db04612d4",
+      "indexed": "2026-10-08T09:58:22.660Z"
+    },
+    {
       "path": "newsletter/the-future-arrives-locally.md",
       "title": "Announcing the Ground Floor Residency",
       "url": "https://edgecityindia2026.substack.com/p/the-future-arrives-locally",
@@ -183,9 +192,9 @@
       "title": "Welcome to Edge City India",
       "url": "https://edgecityindia2026.substack.com/p/welcome-to-edge-city-india",
       "kind": "newsletter",
-      "published": "2026-06-29T16:06:34.000Z",
-      "hash": "d5214a4f6b30b2239afa96b9635d1cd1abcefc184f7a75eaa1f0e4b06824ddad",
-      "indexed": "2026-09-30T21:32:35.134Z"
+      "updated": "2026-08-05T12:13:07.976Z",
+      "hash": "2867919c0f610426116f2eddba9ed524bf2e12ea1c5b537cb3f1e2f1def91895",
+      "indexed": "2026-10-08T09:58:22.660Z"
     },
     {
       "path": "residencies/community-builders.md",
