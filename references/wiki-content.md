@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-08T10:24:18.523Z
+Source updated: 2026-10-08T10:35:45.946Z
 
-Last content change indexed: 2026-10-08T10:28:19.692Z
+Last content change indexed: 2026-10-08T10:43:19.407Z
 
 ---
 
@@ -126,11 +126,11 @@ Once it's created, you can invite people by email, see who has RSVPed, edit any 
 
 Every attendee needs to check in to collect their wristband. Please bring your ticket QR code.
 
-**Opening days (Oct 10–12)**
+**Opening days (Oct 11–12)**
 
-- **Sat–Sun, Oct 10–11:**
+- **Sun, Oct 11:**
 
-  - 11am–1pm, [Riva Beach Resort](https://maps.app.goo.gl/povPE89dFNAFtz5x6) (near reception)
+  - 11am–5pm, [Riva Beach Resort](https://maps.app.goo.gl/povPE89dFNAFtz5x6) (near reception)
 
   - 5pm-9pm, [Opening Ceremony](https://luma.com/fbh5z4kp)
 
