@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-09T06:07:32.730Z
+Source updated: 2026-10-09T07:08:44.292Z
 
-Last content change indexed: 2026-10-09T06:13:21.172Z
+Last content change indexed: 2026-10-09T07:13:19.143Z
 
 ---
 
@@ -180,7 +180,7 @@ Moving, recovering, and trying something new is easy at Edge City India, thanks 
 
   - Free for Riva guests
 
-  - Everyone else can buy day, week, or month passes, which include access to the three pools
+  - Everyone else can buy day, week, or month passes, which include access to the three pools - Edge City has negotiated the ability to share these passes amongst up to 5 friends- pick your gym buddies and you can trade days!
 
   - Classes in strength, cardio, martial arts, and yoga
 
