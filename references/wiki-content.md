@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-09T19:18:58.926Z
+Source updated: 2026-10-10T05:12:12.563Z
 
-Last content change indexed: 2026-10-09T19:28:20.813Z
+Last content change indexed: 2026-10-10T05:13:17.678Z
 
 ---
 
@@ -286,10 +286,17 @@ Additionally, aligned prices for taxis are below - you can find these outside of
 
 Please note the prices below are negotiated prices for ongoing relationships with taxi association around town, prices may vary according to your own negotiations, however should not go over these below. Negotiate with respect, please!
 
-A few of our taxi driver friends include:\
-\
-Prasad Gadekar - Whatsapp #+91 - 98503 - 91950\
-Umesh Naik - Whatsapp # +91-83297-44359
+**A few of our taxi driver friends include:**
+
+- Prasad Gadekar - WhatsApp: +91 98503 91950
+
+- Umesh Naik - WhatsApp: +91 83297 44359
+
+- Jitendra Deuskar - WhatsApp: +91 97644 13710
+
+- Kedar - WhatsApp: +91 99232 72797
+
+- Rohit - WhatsApp: +91 74149 66574
 
 ---
 
