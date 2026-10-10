@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-10T05:42:34.578Z
+Source updated: 2026-10-10T08:27:56.368Z
 
-Last content change indexed: 2026-10-10T05:43:22.500Z
+Last content change indexed: 2026-10-10T08:43:19.616Z
 
 ---
 
@@ -124,7 +124,7 @@ Once it's created, you can invite people by email, see who has RSVPed, edit any 
 
 #### **🎫** Check-in & **wristband pick-up (mandatory)**
 
-Every attendee needs to check in to collect their wristband. Please bring your ticket QR code.
+Every attendee needs to check in to collect their wristband. Please bring your ticket QR code. **PLEASE NOTE: There is a $50 USD charge for lost wristbands.** **If your wristband is too tight, needs to be cut or you need a replacement with your original one in hand, you can exchange it complimentary.**
 
 **Opening days (Oct 11–12)**
 
