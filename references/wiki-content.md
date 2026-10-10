@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-10T05:20:57.560Z
+Source updated: 2026-10-10T05:42:34.578Z
 
-Last content change indexed: 2026-10-10T05:28:18.585Z
+Last content change indexed: 2026-10-10T05:43:22.500Z
 
 ---
 
@@ -267,7 +267,7 @@ We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. Thi
 
 **For arrival instructions with photos for taxi; click** **[HERE.](https://docs.google.com/document/d/161mjFNCXP9dl3JlFdkzvI2Sje7I0Nh9A/edit?usp=sharing&ouid=102473816871369346891&rtpof=true&sd=true)**
 
-**October 11th - RIVA to The Forresta Kinaro; Opening Ceremony**
+**October 11th - The Forresta Kinaro; Opening Ceremony**
 
 We will offer a complimentary shuttle to the Opening Ceremony at The Forresta Kinaro. Volunteers designated with a purple lanyard will be posted at RIVA Beach Resort parking area and The Forresta Kinaro entrance to assist in getting on the shuttle.
 
