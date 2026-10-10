@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-10T05:12:12.563Z
+Source updated: 2026-10-10T05:20:57.560Z
 
-Last content change indexed: 2026-10-10T05:13:17.678Z
+Last content change indexed: 2026-10-10T05:28:18.585Z
 
 ---
 
@@ -255,13 +255,13 @@ We will offer a shuttle service from GOX/ Mopa Airport to Riva Beach Resort. Thi
 **October 11th - GOX / Mopa Airport to Riva Beach Resort**
 
 **9:30 AM Shuttle service starts at airport - first pickup**\
-10:15 AM Shuttle drops at RIVA\
-**11:30 AM Shuttle service - second pickup**\
-12:15 PM Shuttle drops at RIVA\
+10:15 AM Shuttle drops at 4 stops: NANU Resort, RIVA Beach Resort, Lush Garden (Mandrem), and The Circle Coworking\
+**11:30 AM Shuttle service - second pickup at airport**\
+12:15 PM Shuttle drops at 4 stops: NANU Resort, RIVA Beach Resort, Lush Garden (Mandrem), and The Circle Coworking\
 **2:30 PM Shuttle service - third pickup**\
-3:15 PM Shuttle drops at RIVA\
+3:15 PM Shuttle drops at 4 stops: NANU Resort, RIVA Beach Resort, Lush Garden (Mandrem), and The Circle Coworking\
 **4:45 PM Shuttle service - fourth & final pickup**\
-5:15 PM Shuttle final drops at RIVA
+5:15 PM Shuttle drops at 4 stops: NANU Resort, RIVA Beach Resort, Lush Garden (Mandrem), and The Circle Coworking
 
 **While you are waiting for the shuttle, we have a 10% discount at Artjuna Cafe at GOX Airport. Please mention “Edge City” for a discount!**
 
