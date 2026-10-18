@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-18T05:44:51.108Z
+Source updated: 2026-10-18T12:27:49.487Z
 
-Last content change indexed: 2026-10-18T05:58:17.647Z
+Last content change indexed: 2026-10-18T12:28:17.208Z
 
 ---
 
@@ -324,11 +324,11 @@ Dinners are pay-as-you-go and rotate across partner venues so you can explore th
 
 Join the Edge City India community at 7:00pm, Monday to Thursday, to unwind and connect over shared meals! Just show up, order off the menu and show your wristband for the discount.
 
-- **Mondays** at [Oo! Olivia](https://maps.google.com/?q=Oo+Olivia+Mandrem+Goa) for 15% off
+- **Mondays** at [The Forresta Kinaro](https://maps.app.goo.gl/FU2GhduW7tu5ZczR7) for 10% off
 
 - **Tuesdays** at [Ashwe 351](https://maps.google.com/?q=Ashwe+351+Palma+Beach+Resort+Ashvem+Goa) (inside Palma Beach Resort) for 10% off
 
-- **Wednesdays** at [Brisa by the Beach](https://maps.app.goo.gl/Takho1eVV5XxEwNR7) for 20% off
+- **Wednesdays** at [Cuebebar on the Beach](https://maps.app.goo.gl/pYAKNo1tQhK1NZX36) for 20% off
 
 - **Thursdays** at [Prana Cafe](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) for 10% off
 
