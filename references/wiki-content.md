@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-14T17:41:07.660Z
+Source updated: 2026-10-18T05:44:51.108Z
 
-Last content change indexed: 2026-10-14T17:43:19.997Z
+Last content change indexed: 2026-10-18T05:58:17.647Z
 
 ---
 
@@ -340,11 +340,63 @@ All dinners are on the [calendar](https://portal.edgecity.live/portal/edge-india
 
 #### Shuttle Service & Taxi Information during Edge City India
 
-We will offer a shuttle service on weekdays.
+🚌 **Shuttle Schedule | Oct 19–21**
 
-Shuttle runs 8am-10pm in 30 min loops with a driver break from 11am-12pm & 4pm-5pm.
+**Nanu → Riva → Circle.Work → Riva → Nanu**
 
-Shuttle stops include RIVA Beach Resort > The Circle Coworking > RIVA Beach Resort.
+Each bus runs approximately **hourly,** except during breaks. Times below are **departure times**, allowing for boarding at each stop. Please allow flexibility for traffic. 🚐
+
+**Bus 1 | 8 AM–4 PM**
+
+☕️ Break: 11 AM–12 PM
+
+**Nanu → Riva → Circle.Work**
+
+8:00 AM → 8:15 AM → 8:30 AM
+
+9:00 AM → 9:15 AM → 9:30 AM
+
+10:00 AM → 10:15 AM → 10:30 AM
+
+☕️ **Break: 11 AM–12 PM**
+
+12:00 PM → 12:15 PM → 12:30 PM
+
+1:00 PM → 1:15 PM → 1:30 PM
+
+2:00 PM → 2:15 PM → 2:30 PM
+
+3:00 PM → 3:15 PM → 3:30 PM
+
+🚐 **Bus 2 | 2 PM–10 PM**
+
+☕️ Break: 4–5 PM
+
+**Nanu → Riva → Circle.Work**
+
+2:00 PM → 2:15 PM → 2:30 PM
+
+3:00 PM → 3:15 PM → 3:30 PM
+
+☕️ **Break: 4–5 PM**
+
+5:00 PM → 5:15 PM → 5:30 PM
+
+6:00 PM → 6:15 PM → 6:30 PM
+
+7:00 PM → 7:15 PM → 7:30 PM
+
+8:00 PM → 8:15 PM → 8:30 PM
+
+9:00 PM → 9:15 PM → 9:30 PM
+
+🔄 **Returning from Circle.Work:** Stops at Riva approximately 15 minutes after departure, then continues to Nanu.📍
+
+**Track your shuttle:** @eci\_shuttles\_bot
+
+**Live map:** https://eci-shuttle.positivesumcompany.com/
+
+The tracker is new, so there may be a few quirks 💜 Please arrive a few minutes early and plan around driver breaks!
 
 Shuttle times will be approximate to traffic. Tips are not required, but always appreciated!\
 Please plan accordingly so you do not miss your next session!
