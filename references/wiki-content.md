@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-19T04:37:42.554Z
+Source updated: 2026-10-19T06:03:39.480Z
 
-Last content change indexed: 2026-10-19T04:43:19.266Z
+Last content change indexed: 2026-10-19T06:13:16.442Z
 
 ---
 
@@ -314,7 +314,7 @@ Participants must pay for a pre-purchased meal ticket [here](https://portal.edge
 
 ₹3,000 per week ($36) - 5 lunches, Monday - Friday.
 
-⚠️ _Order deadline:_ Week 3 closes **Oct 21 at 10am IST** and week 3 closes Oct 21, so the kitchens know how much to cook.
+⚠️ _Order deadline:_ Week 3 closes **Oct 24 at 10am IST.**
 
 We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants plan properly.
 
@@ -333,8 +333,6 @@ Join the Edge City India community at 7:00pm, Monday to Thursday, to unwind and 
 - **Wednesdays** at [Cuebebar on the Beach](https://maps.app.goo.gl/pYAKNo1tQhK1NZX36) for 15% off
 
 - **Thursdays** at [Prana Cafe](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) for 10% off
-
-- **Sunday Oct 18** at [Jadugari](https://maps.google.com/?q=Jadugari+Morjim+Goa) for 20% off
 
 - **Sunday Oct 25** at [Morjim Culture](https://maps.app.goo.gl/cEsyyW2Rp81frcuN7) for 10% off
 
