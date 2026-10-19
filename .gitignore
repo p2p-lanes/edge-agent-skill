@@ -21,6 +21,7 @@ bootstrap
 .eslintcache
 .references-stage-*
 *.tsbuildinfo
+.maintenance-state.json
 
 # Logs and local editor files
 *.log
