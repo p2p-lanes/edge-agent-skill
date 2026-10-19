@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-18T12:27:49.487Z
+Source updated: 2026-10-19T03:53:11.124Z
 
-Last content change indexed: 2026-10-18T12:28:17.208Z
+Last content change indexed: 2026-10-19T03:58:18.671Z
 
 ---
 
@@ -306,13 +306,13 @@ We've partnered with local restaurants and businesses to offer ECI26 participant
 
 **Lunch Meal Plans**
 
-We’ve partnered with [Om Kafe](https://share.google/uhNPlKfRJ9AzUd34Z) and [Hari Cafe](https://www.haricafe.com/) to provide fresh and healthy lunches Monday - Friday delivered to The Circle.Work from 1:00-2:00 PM!
+We’ve partnered with [Hari Cafe](https://www.haricafe.com/) to provide fresh and healthy lunches Monday - Friday delivered to The Circle.Work from 1:00-2:00 PM!
 
 Participants must pay for a pre-purchased meal ticket [here](https://portal.edgecity.live/checkout/edge-india/lunch-tickets).
 
 ₹3,000 per week ($36) - 5 lunches, Monday - Friday.
 
-⚠️ _Order deadline:_ Week 2 closes **Oct 16 at 10am IST** and week 3 closes Oct 21, so the kitchens know how much to cook.
+⚠️ _Order deadline:_ Week 3 closes **Oct 21 at 10am IST** and week 3 closes Oct 21, so the kitchens know how much to cook.
 
 We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets the restaurants plan properly.
 
