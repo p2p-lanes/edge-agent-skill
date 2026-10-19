@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-19T03:53:11.124Z
+Source updated: 2026-10-19T04:08:26.595Z
 
-Last content change indexed: 2026-10-19T03:58:18.671Z
+Last content change indexed: 2026-10-19T04:13:19.520Z
 
 ---
 
@@ -328,7 +328,7 @@ Join the Edge City India community at 7:00pm, Monday to Thursday, to unwind and 
 
 - **Tuesdays** at [Ashwe 351](https://maps.google.com/?q=Ashwe+351+Palma+Beach+Resort+Ashvem+Goa) (inside Palma Beach Resort) for 10% off
 
-- **Wednesdays** at [Cuebebar on the Beach](https://maps.app.goo.gl/pYAKNo1tQhK1NZX36) for 20% off
+- **Wednesdays** at [Cuebebar on the Beach](https://maps.app.goo.gl/pYAKNo1tQhK1NZX36) for 15% off
 
 - **Thursdays** at [Prana Cafe](https://maps.app.goo.gl/ic5HquVKgzwtDASt8) for 10% off
 
