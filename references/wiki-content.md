@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-19T04:08:26.595Z
+Source updated: 2026-10-19T04:37:42.554Z
 
-Last content change indexed: 2026-10-19T04:13:19.520Z
+Last content change indexed: 2026-10-19T04:43:19.266Z
 
 ---
 
@@ -128,7 +128,9 @@ Every attendee needs to check in to collect their wristband. Please bring your t
 
 - **Mon–Fri:** 10am–12pm, [Riva Beach Resort (Garden Oasis Banquet Hall](https://maps.app.goo.gl/povPE89dFNAFtz5x6))
 
-- **Sat–Sun:** 12pm–2pm, [Riva Beach Resort (Garden Oasis Banquet Hall](https://maps.app.goo.gl/povPE89dFNAFtz5x6))
+- **Sat:** 12pm–2pm, [Riva Beach Resort (Garden Oasis Banquet Hall](https://maps.app.goo.gl/povPE89dFNAFtz5x6))
+
+- **Sun:** 12pm–6pm, [Riva Beach Resort (Garden Oasis Banquet Hall](https://maps.app.goo.gl/povPE89dFNAFtz5x6))
 
 **Arriving outside these hours?** You can join sessions before checking in - keep your ticket QR code handy.
 
