@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-19T06:03:39.480Z
+Source updated: 2026-10-21T12:35:49.497Z
 
-Last content change indexed: 2026-10-19T06:13:16.442Z
+Last content change indexed: 2026-10-21T12:43:15.520Z
 
 ---
 
@@ -308,7 +308,7 @@ We've partnered with local restaurants and businesses to offer ECI26 participant
 
 **Lunch Meal Plans**
 
-We’ve partnered with [Hari Cafe](https://www.haricafe.com/) to provide fresh and healthy lunches Monday - Friday delivered to The Circle.Work from 1:00-2:00 PM!
+We’ve partnered with [Hari Cafe](https://www.haricafe.com/) to provide fresh and healthy lunches Monday - Friday delivered to RIVA Beach Resort from 12:00-1:00 PM! If you wish to have your meal delivered to Circle Co.Work, please use Telegram to communicate.
 
 Participants must pay for a pre-purchased meal ticket [here](https://portal.edgecity.live/checkout/edge-india/lunch-tickets).
 
@@ -408,8 +408,6 @@ Please note the prices below are negotiated prices for ongoing relationships wit
 **A few of our taxi driver friends include:**
 
 - Prasad Gadekar - WhatsApp: +91 98503 91950
-
-- Umesh Naik - WhatsApp: +91 83297 44359
 
 - Jitendra Deuskar - WhatsApp: +91 97644 13710
 
