@@ -4,9 +4,9 @@ Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a
 
 Source type: wiki
 
-Source updated: 2026-10-21T12:35:49.497Z
+Source updated: 2026-10-21T12:52:40.982Z
 
-Last content change indexed: 2026-10-21T12:43:15.520Z
+Last content change indexed: 2026-10-21T12:58:19.304Z
 
 ---
 
@@ -340,61 +340,79 @@ All dinners are on the [calendar](https://portal.edgecity.live/portal/edge-india
 
 #### Shuttle Service & Taxi Information during Edge City India
 
-🚌 **Shuttle Schedule | Oct 19–21**
+**Shuttle Schedule | Oct 21–23 & Oct 26–30**
 
-**Nanu → Riva → Circle.Work → Riva → Nanu**
+📍 **Nanu → Riva → Circle.Work → Namaka (Mandrem), then back via Circle.Work and Riva**
 
-Each bus runs approximately **hourly,** except during breaks. Times below are **departure times**, allowing for boarding at each stop. Please allow flexibility for traffic. 🚐
+Each round trip takes approximately **90 minutes**, allowing 10 minutes between stops and 5 minutes for boarding.
 
-**Bus 1 | 8 AM–4 PM**
+**Circle.Work ↔️ Namaka travel time is estimated and still needs confirmation.**
+
+Please allow flexibility for traffic.
+
+🚐 **Bus 1 | 8 AM–4 PM**
 
 ☕️ Break: 11 AM–12 PM
 
-**Nanu → Riva → Circle.Work**
+**Outbound: Nanu → Riva → Circle.Work → Namaka**
 
-8:00 AM → 8:15 AM → 8:30 AM
+8:00 AM → 8:15 AM → 8:30 AM → 8:45 AM
 
-9:00 AM → 9:15 AM → 9:30 AM
+9:30 AM → 9:45 AM → 10:00 AM → 10:15 AM
 
-10:00 AM → 10:15 AM → 10:30 AM
+**Return: Namaka → Circle.Work → Riva → Nanu arrival**
+
+8:45 AM → 9:00 AM → 9:15 AM → 9:25 AM
+
+10:15 AM → 10:30 AM → 10:45 AM → 10:55 AM
 
 ☕️ **Break: 11 AM–12 PM**
 
-12:00 PM → 12:15 PM → 12:30 PM
+**Outbound: Nanu → Riva → Circle.Work → Namaka**
 
-1:00 PM → 1:15 PM → 1:30 PM
+12:00 PM → 12:15 PM → 12:30 PM → 12:45 PM
 
-2:00 PM → 2:15 PM → 2:30 PM
+1:30 PM → 1:45 PM → 2:00 PM → 2:15 PM
 
-3:00 PM → 3:15 PM → 3:30 PM
+**Return: Namaka → Circle.Work → Riva → Nanu arrival**
+
+12:45 PM → 1:00 PM → 1:15 PM → 1:25 PM
+
+2:15 PM → 2:30 PM → 2:45 PM → 2:55 PM
 
 🚐 **Bus 2 | 2 PM–10 PM**
 
 ☕️ Break: 4–5 PM
 
-**Nanu → Riva → Circle.Work**
+**Outbound: Nanu → Riva → Circle.Work → Namaka**
 
-2:00 PM → 2:15 PM → 2:30 PM
+2:00 PM → 2:15 PM → 2:30 PM → 2:45 PM
 
-3:00 PM → 3:15 PM → 3:30 PM
+**Return: Namaka → Circle.Work → Riva → Nanu arrival**
+
+2:45 PM → 3:00 PM → 3:15 PM → 3:25 PM
 
 ☕️ **Break: 4–5 PM**
 
-5:00 PM → 5:15 PM → 5:30 PM
+**Outbound: Nanu → Riva → Circle.Work → Namaka**
 
-6:00 PM → 6:15 PM → 6:30 PM
+5:00 PM → 5:15 PM → 5:30 PM → 5:45 PM
 
-7:00 PM → 7:15 PM → 7:30 PM
+6:30 PM → 6:45 PM → 7:00 PM → 7:15 PM
 
-8:00 PM → 8:15 PM → 8:30 PM
+8:00 PM → 8:15 PM → 8:30 PM → 8:45 PM
 
-9:00 PM → 9:15 PM → 9:30 PM
+**Return: Namaka → Circle.Work → Riva → Nanu arrival**
 
-🔄 **Returning from Circle.Work:** Stops at Riva approximately 15 minutes after departure, then continues to Nanu.📍
+5:45 PM → 6:00 PM → 6:15 PM → 6:25 PM
 
-**Track your shuttle:** @eci\_shuttles\_bot
+7:15 PM → 7:30 PM → 7:45 PM → 7:55 PM
 
-**Live map:** https://eci-shuttle.positivesumcompany.com/
+8:45 PM → 9:00 PM → 9:15 PM → 9:25 PM
+
+📍**Track your shuttle:** @eci\_shuttles\_bot
+
+\[Live shuttle map\](https://eci-shuttle.positivesumcompany.com/)
 
 The tracker is new, so there may be a few quirks 💜 Please arrive a few minutes early and plan around driver breaks!
 
